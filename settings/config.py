@@ -4,6 +4,7 @@ Settings/configuration manager. All config data is stored/loaded here.
 import copy
 import json
 import os
+from datetime import datetime
 
 
 class ConfigManager:
@@ -34,6 +35,10 @@ class ConfigManager:
     def set(self, key, value):
         self.config[key] = value
         self.save()
+
+    def _get_current_date(self):
+        """Get current date as string in YYYY-MM-DD format"""
+        return datetime.now().strftime('%Y-%m-%d')
 
     # --- Atalhos e Combos de Auto Attack ---
     def get_auto_attack_shortcut(self):
@@ -140,6 +145,7 @@ class ConfigManager:
             buffs = old_auto_buff.get('buffs', {})
             capture_interval = old_auto_buff.get('capture_interval', 2.0)
             detection_delay = old_auto_buff.get('detection_delay', 3.0)
+            current_date = self._get_current_date()
             default_profile = {
                 'buffs': buffs, 
                 'settings': {
@@ -152,8 +158,8 @@ class ConfigManager:
                     'move_mouse_away': True
                 }, 
                 'metadata': {
-                    'created_date': '2025-06-17', 
-                    'last_modified': '2025-06-17', 
+                    'created_date': current_date, 
+                    'last_modified': current_date, 
                     'description': 'Default buff profile'
                 }
             }
@@ -184,11 +190,12 @@ class ConfigManager:
         if profile_name in profiles:
             raise ValueError(f"Profile '{profile_name}' already exists.")
         
+        current_date = self._get_current_date()
         if copy_from and copy_from in profiles:
             new_profile = copy.deepcopy(profiles[copy_from])
             new_profile['metadata']['description'] = description
-            new_profile['metadata']['created_date'] = '2025-06-17'
-            new_profile['metadata']['last_modified'] = '2025-06-17'
+            new_profile['metadata']['created_date'] = current_date
+            new_profile['metadata']['last_modified'] = current_date
         else:
             new_profile = {
                 'buffs': {}, 
@@ -202,8 +209,8 @@ class ConfigManager:
                     'move_mouse_away': True
                 }, 
                 'metadata': {
-                    'created_date': '2025-06-17', 
-                    'last_modified': '2025-06-17', 
+                    'created_date': current_date, 
+                    'last_modified': current_date, 
                     'description': description
                 }
             }
@@ -234,7 +241,7 @@ class ConfigManager:
             raise ValueError(f"Profile '{new_name}' already exists.")
             
         profiles[new_name] = profiles.pop(old_name)
-        profiles[new_name]['metadata']['last_modified'] = '2025-06-17'
+        profiles[new_name]['metadata']['last_modified'] = self._get_current_date()
         if self.config.get('auto_buff_active_profile') == old_name:
             self.config['auto_buff_active_profile'] = new_name
         self.save()
@@ -246,7 +253,7 @@ class ConfigManager:
             raise ValueError(f"Profile '{profile_name}' does not exist.")
         
         profiles[profile_name].update(data)
-        profiles[profile_name]['metadata']['last_modified'] = '2025-06-17'
+        profiles[profile_name]['metadata']['last_modified'] = self._get_current_date()
         self.save()
 
     def get_active_buff_profile_data(self):
@@ -264,7 +271,7 @@ class ConfigManager:
         export_data = {
             'profile_name': profile_name, 
             'profile_data': profiles[profile_name], 
-            'export_date': '2025-06-17', 
+            'export_date': self._get_current_date(), 
             'version': '2.0'
         }
         with open(file_path, 'w', encoding='utf-8') as f:
@@ -293,9 +300,10 @@ class ConfigManager:
         if 'metadata' not in profile_data:
             profile_data['metadata'] = {}
             
-        profile_data['metadata']['last_modified'] = '2025-06-17'
+        current_date = self._get_current_date()
+        profile_data['metadata']['last_modified'] = current_date
         if 'created_date' not in profile_data['metadata']:
-            profile_data['metadata']['created_date'] = '2025-06-17'
+            profile_data['metadata']['created_date'] = current_date
             
         self.add_buff_profile(profile_name, profile_data['metadata'].get('description', 'Imported profile'), copy_from=None)
         profiles = self.config['auto_buff_profiles']
