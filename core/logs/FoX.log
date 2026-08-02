@@ -1,0 +1,1238 @@
+2026-07-28 18:39:58,539 - INFO - Application started.
+2026-07-28 18:39:58,557 - WARNING - Application not running as admin.
+2026-07-28 18:40:07,736 - INFO - [ShortcutManager] Global shortcuts started
+2026-07-28 18:40:07,736 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-07-28 18:40:07,736 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-07-28 18:40:07,738 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=True, camera_pause=True
+2026-07-28 18:40:07,738 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=True, camera_pause=True
+2026-07-28 18:40:07,738 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-07-28 18:40:07,740 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-28 18:40:07,750 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f8
+2026-07-28 18:40:08,183 - INFO - [System] Main window shown with title: Microsoft Update Assistant
+2026-07-28 18:40:08,183 - INFO - [Stealth] Process name: mshelper84.exe
+2026-07-28 18:42:08,475 - INFO - Application started.
+2026-07-28 18:42:08,664 - INFO - [ShortcutManager] Global shortcuts started
+2026-07-28 18:42:08,664 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-07-28 18:42:08,664 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-07-28 18:42:08,666 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=True, camera_pause=True
+2026-07-28 18:42:08,666 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=True, camera_pause=True
+2026-07-28 18:42:08,666 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-07-28 18:42:08,667 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-28 18:42:08,675 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f8
+2026-07-28 18:42:08,958 - INFO - [System] Main window shown with title: Microsoft Update Assistant
+2026-07-28 18:42:08,958 - INFO - [Stealth] Process name: taskmgr.exe
+2026-07-28 18:45:13,459 - INFO - Application started.
+2026-07-28 18:45:13,501 - INFO - [ShortcutManager] Global shortcuts started
+2026-07-28 18:45:13,501 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-07-28 18:45:13,501 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-07-28 18:45:13,503 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=True, camera_pause=True
+2026-07-28 18:45:13,503 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=True, camera_pause=True
+2026-07-28 18:45:13,503 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-07-28 18:45:13,504 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-28 18:45:13,510 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f8
+2026-07-28 18:45:13,647 - INFO - [System] Main window shown with title: User Accounts
+2026-07-28 18:45:13,648 - INFO - [Stealth] Process name: dhcp.exe
+2026-07-28 18:45:37,109 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-28 18:45:39,352 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-28 18:47:15,049 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-28 18:47:21,112 - INFO - [AutoSkill] Feature stopped.
+2026-07-28 18:53:50,535 - INFO - Application started.
+2026-07-28 18:53:50,935 - INFO - [ShortcutManager] Global shortcuts started
+2026-07-28 18:53:50,935 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-07-28 18:53:50,935 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-07-28 18:53:50,940 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-28 18:53:50,941 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-28 18:53:50,941 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-07-28 18:53:50,943 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-28 18:53:50,950 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-07-28 18:53:51,283 - INFO - [System] Main window shown with title: Firewall Settings
+2026-07-28 18:53:51,283 - INFO - [Stealth] Process name: svcanalyzer64.exe
+2026-07-28 18:53:59,266 - ERROR - [ProfileManagerWidget] Error updating profile list: 'ProfileManagerWidget' object has no attribute 'profile_combo'
+2026-07-28 18:54:06,012 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-28 18:54:17,817 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-28 18:54:27,880 - INFO - [AutoPotion] Feature stopped. Stopping threads...
+2026-07-28 18:54:27,880 - INFO - [AutoPotion] All threads stopped, stop completed
+2026-07-28 18:55:43,670 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-28 18:56:59,569 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 5706466)
+2026-07-28 19:25:15,939 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-07-28 19:25:15,939 - INFO - [EventQueue] Stopping event queue...
+2026-07-28 19:25:15,940 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-07-28 19:25:16,685 - INFO - [EventQueue] Worker thread stopped successfully
+2026-07-28 19:25:16,685 - INFO - [EventQueue] Event queue stopped
+2026-07-28 19:25:18,990 - INFO - Application started.
+2026-07-28 19:25:19,101 - INFO - [ShortcutManager] Global shortcuts started
+2026-07-28 19:25:19,101 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-07-28 19:25:19,103 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-07-28 19:25:19,108 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-28 19:25:19,108 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-28 19:25:19,108 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-07-28 19:25:19,110 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 5706466)
+2026-07-28 19:25:19,118 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-07-28 19:25:19,341 - INFO - [System] Main window shown with title: Event Viewer
+2026-07-28 19:25:19,341 - INFO - [Stealth] Process name: syshandler86.exe
+2026-07-28 19:25:22,204 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-07-28 19:25:22,204 - INFO - [EventQueue] Stopping event queue...
+2026-07-28 19:25:22,205 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-07-28 19:25:23,035 - INFO - [EventQueue] Worker thread stopped successfully
+2026-07-28 19:25:23,035 - INFO - [EventQueue] Event queue stopped
+2026-07-28 19:27:30,040 - INFO - Application started.
+2026-07-28 19:27:30,148 - INFO - [ShortcutManager] Global shortcuts started
+2026-07-28 19:27:30,148 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-07-28 19:27:30,148 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-07-28 19:27:30,154 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-28 19:27:30,154 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-28 19:27:30,155 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-07-28 19:27:30,157 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 5706466)
+2026-07-28 19:27:30,165 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-07-28 19:27:30,317 - INFO - [System] Main window shown with title: User Accounts - Monitoring
+2026-07-28 19:27:30,317 - INFO - [Stealth] Process name: cmd.exe
+2026-07-28 19:27:42,771 - INFO - [AutoSkill] Feature stopped.
+2026-07-28 19:27:54,724 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-07-28 19:27:54,726 - INFO - [EventQueue] Stopping event queue...
+2026-07-28 19:27:54,730 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-07-28 19:27:55,215 - INFO - [EventQueue] Worker thread stopped successfully
+2026-07-28 19:27:55,215 - INFO - [EventQueue] Event queue stopped
+2026-07-29 19:22:30,085 - INFO - Application started.
+2026-07-29 19:22:30,146 - WARNING - Application not running as admin.
+2026-07-29 19:22:32,246 - INFO - [ShortcutManager] Global shortcuts started
+2026-07-29 19:22:32,246 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-07-29 19:22:32,246 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-07-29 19:22:32,251 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-29 19:22:32,251 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-29 19:22:32,271 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-07-29 19:22:32,280 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-29 19:22:32,315 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-07-29 19:22:32,565 - INFO - [System] Main window shown with title: System Information - 11.94.5454.81
+2026-07-29 19:22:32,565 - INFO - [Stealth] Process name: charmap.exe
+2026-07-29 19:22:37,534 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-07-29 19:22:37,534 - INFO - [EventQueue] Stopping event queue...
+2026-07-29 19:22:37,534 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-07-29 19:22:38,238 - INFO - [EventQueue] Worker thread stopped successfully
+2026-07-29 19:22:38,238 - INFO - [EventQueue] Event queue stopped
+2026-07-29 19:23:15,530 - INFO - Application started.
+2026-07-29 19:23:15,543 - WARNING - Application not running as admin.
+2026-07-29 19:23:17,056 - INFO - [ShortcutManager] Global shortcuts started
+2026-07-29 19:23:17,056 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-07-29 19:23:17,056 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-07-29 19:23:17,061 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-29 19:23:17,061 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-29 19:23:17,062 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-07-29 19:23:17,064 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-29 19:23:17,074 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-07-29 19:23:17,311 - INFO - [System] Main window shown with title: Network Connections - Running
+2026-07-29 19:23:17,311 - INFO - [Stealth] Process name: themes.exe
+2026-07-29 19:23:32,628 - ERROR - [ProfileManagerWidget] Error updating profile list: 'ProfileManagerWidget' object has no attribute 'profile_combo'
+2026-07-29 19:23:52,627 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-07-29 19:23:52,627 - INFO - [EventQueue] Stopping event queue...
+2026-07-29 19:23:52,627 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-07-29 19:23:53,069 - INFO - [EventQueue] Worker thread stopped successfully
+2026-07-29 19:23:53,070 - INFO - [EventQueue] Event queue stopped
+2026-07-30 17:42:08,842 - INFO - Application started.
+2026-07-30 17:42:08,934 - WARNING - Application not running as admin.
+2026-07-30 17:42:11,769 - INFO - [ShortcutManager] Global shortcuts started
+2026-07-30 17:42:11,769 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-07-30 17:42:11,769 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-07-30 17:42:11,776 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-30 17:42:11,776 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-30 17:42:11,789 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-07-30 17:42:11,795 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-30 17:42:11,820 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-07-30 17:42:11,996 - INFO - [System] Main window shown with title: Regional Settings
+2026-07-30 17:42:11,996 - INFO - [Stealth] Process name: wordpad9.exe
+2026-07-30 17:42:21,213 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-07-30 17:42:24,303 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-07-30 17:42:24,304 - INFO - [EventQueue] Stopping event queue...
+2026-07-30 17:42:24,304 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-07-30 17:42:24,800 - INFO - [EventQueue] Worker thread stopped successfully
+2026-07-30 17:42:24,800 - INFO - [EventQueue] Event queue stopped
+2026-07-30 17:44:20,404 - INFO - Application started.
+2026-07-30 17:44:20,420 - WARNING - Application not running as admin.
+2026-07-30 17:44:28,858 - INFO - [ShortcutManager] Global shortcuts started
+2026-07-30 17:44:28,858 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-07-30 17:44:28,858 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-07-30 17:44:28,862 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-30 17:44:28,863 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-30 17:44:28,863 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-07-30 17:44:28,874 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 1509392)
+2026-07-30 17:44:28,882 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-07-30 17:44:29,083 - INFO - [System] Main window shown with title: Services - 14.56.7727
+2026-07-30 17:44:29,083 - INFO - [Stealth] Process name: spooler.exe
+2026-07-30 17:44:34,525 - DEBUG - [EventQueue] Processing resumed
+2026-07-30 17:44:34,525 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 1509392)
+2026-07-30 17:45:04,331 - INFO - [AutoPotion] Feature stopped. Stopping threads...
+2026-07-30 17:45:04,331 - INFO - [AutoPotion] All threads stopped, stop completed
+2026-07-30 17:45:05,375 - INFO - [AutoBuff] Feature stopped
+2026-07-30 17:45:07,919 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-07-30 17:45:07,919 - INFO - [EventQueue] Stopping event queue...
+2026-07-30 17:45:07,919 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-07-30 17:45:08,108 - INFO - [EventQueue] Worker thread stopped successfully
+2026-07-30 17:45:08,108 - INFO - [EventQueue] Event queue stopped
+2026-07-30 17:45:37,090 - INFO - Application started.
+2026-07-30 17:45:37,110 - WARNING - Application not running as admin.
+2026-07-30 17:45:39,272 - INFO - [ShortcutManager] Global shortcuts started
+2026-07-30 17:45:39,272 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-07-30 17:45:39,272 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-07-30 17:45:39,276 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-30 17:45:39,276 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-07-30 17:45:39,277 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-07-30 17:45:39,279 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 1509392)
+2026-07-30 17:45:39,287 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-07-30 17:45:39,438 - INFO - [System] Main window shown with title: Microsoft Update Assistant
+2026-07-30 17:45:39,438 - INFO - [Stealth] Process name: taskmgr1.exe
+2026-07-30 17:45:48,312 - DEBUG - [EventQueue] Processing resumed
+2026-07-30 17:45:48,312 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 1509392)
+2026-07-30 17:45:50,845 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-07-30 17:45:50,845 - INFO - [Diagnostics] Pre-stop: 3 threads active
+2026-07-30 17:45:50,845 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-07-30 17:45:50,846 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-07-30 17:45:50,846 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-07-30 17:45:50,846 - INFO - [EventQueue] Emergency stop initiated...
+2026-07-30 17:45:50,846 - DEBUG - [EventQueue] Processing paused
+2026-07-30 17:45:50,846 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-07-30 17:45:50,846 - INFO - [MainWindow] Stopping feature: Auto Buff
+2026-07-30 17:45:50,846 - INFO - [AutoBuff] Force stop initiated...
+2026-07-30 17:45:50,846 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-07-30 17:45:50,846 - INFO - [Auto Buff] Force stop completed
+2026-07-30 17:45:50,846 - INFO - [AutoBuff] Force stop completed
+2026-07-30 17:45:50,846 - INFO - [MainWindow] Feature Auto Buff stopped successfully
+2026-07-30 17:45:50,846 - INFO - [MainWindow] Stopping feature: Auto Skill
+2026-07-30 17:45:50,846 - INFO - [AutoSkill] Force stop initiated...
+2026-07-30 17:45:50,846 - INFO - [AutoSkill] Force stop completed
+2026-07-30 17:45:50,846 - INFO - [MainWindow] Feature Auto Skill stopped successfully
+2026-07-30 17:45:50,846 - INFO - [MainWindow] Stopping feature: Auto Potion
+2026-07-30 17:45:50,847 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-07-30 17:45:50,847 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-07-30 17:45:50,847 - INFO - [Auto Potion] Force stop completed
+2026-07-30 17:45:50,847 - INFO - [AutoPotion] Force stop completed.
+2026-07-30 17:45:50,847 - INFO - [MainWindow] Feature Auto Potion stopped successfully
+2026-07-30 17:45:50,847 - INFO - [MainWindow] Stopping feature: Auto Camera Rotate
+2026-07-30 17:45:50,847 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-07-30 17:45:50,847 - INFO - [Auto Camera Rotate] Force stop completed
+2026-07-30 17:45:50,847 - INFO - [MainWindow] Feature Auto Camera Rotate stopped successfully
+2026-07-30 17:45:50,847 - INFO - [MainWindow] Stopping feature: Auto Loot
+2026-07-30 17:45:50,847 - INFO - [TemplateMatcher] Force stop initiated...
+2026-07-30 17:45:50,847 - INFO - [TemplateMatcher] Force stop completed
+2026-07-30 17:45:50,847 - INFO - [MainWindow] Feature Auto Loot stopped successfully
+2026-07-30 17:45:50,847 - INFO - [MainWindow] Stopping feature: Auto Attack
+2026-07-30 17:45:50,847 - INFO - [AutoAttack] Force stop initiated...
+2026-07-30 17:45:50,847 - INFO - [AutoAttack] Force stop completed
+2026-07-30 17:45:50,847 - INFO - [MainWindow] Feature Auto Attack stopped successfully
+2026-07-30 17:45:52,853 - INFO - [Diagnostics] Post-stop: 3 threads active
+2026-07-30 17:45:52,854 - WARNING - [Diagnostics] WARNING: 2 threads still active after stop:
+2026-07-30 17:45:52,854 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-07-30 17:45:52,854 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-07-30 17:45:52,854 - INFO - [ThreadMonitor] Status Report:
+2026-07-30 17:45:52,854 - INFO -   Active threads: 0
+2026-07-30 17:45:52,854 - INFO -   Active timers: 0
+2026-07-30 17:45:52,854 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-07-30 17:45:52,854 - INFO - Total active threads: 3
+2026-07-30 17:45:52,854 - INFO - Feature-related threads: 0
+2026-07-30 17:45:52,855 - INFO - System threads: 3
+2026-07-30 17:45:52,855 - INFO -   MainThread (daemon: False)
+2026-07-30 17:45:52,855 - INFO -   Thread-1 (_process) (daemon: True)
+2026-07-30 17:45:52,855 - INFO -   Thread-2 (daemon: True)
+2026-07-30 17:45:52,908 - INFO - [Diagnostics] Found 0 Timer objects in memory
+2026-08-01 06:50:11,785 - INFO - Application started.
+2026-08-01 06:50:11,813 - WARNING - Application not running as admin.
+2026-08-01 06:50:14,748 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 06:50:14,748 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 06:50:14,748 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 06:50:14,753 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 06:50:14,753 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 06:50:14,754 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 06:50:14,755 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-08-01 06:50:14,762 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 06:50:15,039 - INFO - [System] Main window shown with title: Disk Management - 7.38.8201
+2026-08-01 06:50:15,039 - INFO - [Stealth] Process name: themes.exe
+2026-08-01 06:51:30,251 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 06:51:30,251 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 06:51:30,251 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 06:51:30,263 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 06:51:30,263 - INFO - [EventQueue] Event queue stopped
+2026-08-01 07:43:47,037 - INFO - Application started.
+2026-08-01 07:43:47,051 - WARNING - Application not running as admin.
+2026-08-01 07:43:49,132 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 07:43:49,132 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 07:43:49,133 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 07:43:49,137 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 07:43:49,137 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 07:43:49,138 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 07:43:49,139 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-08-01 07:43:49,145 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 07:43:49,438 - INFO - [System] Main window shown with title: Firewall Settings - 1.40.8083.377
+2026-08-01 07:43:49,438 - INFO - [Stealth] Process name: sysanalyzer20.exe
+2026-08-01 07:44:00,572 - INFO - [AutoAttack] Removing queue hooks
+2026-08-01 07:44:00,572 - INFO - [AutoAttack] Feature stopped.
+2026-08-01 07:45:21,741 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 07:45:21,741 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 07:45:21,741 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 07:45:22,727 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 07:45:22,727 - INFO - [EventQueue] Event queue stopped
+2026-08-01 07:46:47,405 - INFO - Application started.
+2026-08-01 07:46:47,539 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 07:46:47,539 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 07:46:47,540 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 07:46:47,544 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 07:46:47,544 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 07:46:47,545 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 07:46:47,547 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 07:46:47,553 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 07:46:47,727 - INFO - [System] Main window shown with title: Accessibility Options - Version 11.9
+2026-08-01 07:46:47,727 - INFO - [Stealth] Process name: usrmanager70.exe
+2026-08-01 07:47:38,169 - INFO - [AutoAttack] Removing queue hooks
+2026-08-01 07:47:38,169 - INFO - [AutoAttack] Feature stopped.
+2026-08-01 07:51:30,088 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 07:51:30,088 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 07:54:09,204 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 07:54:09,204 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 07:54:09,204 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 07:54:09,553 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 07:54:09,553 - INFO - [EventQueue] Event queue stopped
+2026-08-01 07:54:53,161 - INFO - Application started.
+2026-08-01 07:54:53,288 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 07:54:53,288 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 07:54:53,288 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 07:54:53,293 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 07:54:53,293 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 07:54:53,294 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 07:54:53,296 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 07:54:53,302 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 07:54:53,466 - INFO - [System] Main window shown with title: Power Options - Running
+2026-08-01 07:54:53,466 - INFO - [Stealth] Process name: eventlog.exe
+2026-08-01 07:55:43,396 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 07:55:44,397 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 07:55:49,426 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 07:55:49,427 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 07:55:49,427 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 07:55:49,614 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 07:55:49,615 - INFO - [EventQueue] Event queue stopped
+2026-08-01 07:57:01,189 - INFO - Application started.
+2026-08-01 07:57:01,311 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 07:57:01,312 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 07:57:01,312 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 07:57:01,316 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 07:57:01,316 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 07:57:01,317 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 07:57:01,319 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 07:57:01,325 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 07:57:01,489 - INFO - [System] Main window shown with title: Services
+2026-08-01 07:57:01,490 - INFO - [Stealth] Process name: sysoptimizer61.exe
+2026-08-01 07:57:49,564 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 07:57:49,564 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 08:22:05,054 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 08:22:05,054 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 08:22:05,054 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 08:22:05,592 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 08:22:05,592 - INFO - [EventQueue] Event queue stopped
+2026-08-01 08:22:33,134 - INFO - Application started.
+2026-08-01 08:22:33,147 - WARNING - Application not running as admin.
+2026-08-01 08:22:34,082 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 08:22:34,082 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 08:22:34,082 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 08:22:34,087 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:22:34,087 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:22:34,088 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 08:22:34,090 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 08:22:34,096 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 08:22:34,347 - INFO - [System] Main window shown with title: Sound Settings
+2026-08-01 08:22:34,347 - INFO - [Stealth] Process name: usranalyzer70.exe
+2026-08-01 08:22:35,581 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 08:22:35,581 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 08:22:35,581 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 08:22:36,092 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 08:22:36,092 - INFO - [EventQueue] Event queue stopped
+2026-08-01 08:22:53,315 - INFO - Application started.
+2026-08-01 08:22:53,626 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 08:22:53,626 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 08:22:53,627 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 08:22:53,635 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:22:53,635 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:22:53,636 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 08:22:53,639 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 08:22:53,651 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 08:22:54,098 - INFO - [System] Main window shown with title: Network Connections
+2026-08-01 08:22:54,098 - INFO - [Stealth] Process name: winlogon.exe
+2026-08-01 08:26:56,727 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 08:26:56,727 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 08:26:56,727 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 08:26:56,732 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:26:56,732 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:26:56,732 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 08:26:56,734 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 08:26:56,740 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 08:27:25,933 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 08:27:25,933 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 08:27:25,933 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 08:27:25,938 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:27:25,938 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:27:25,939 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 08:27:25,941 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 08:27:25,948 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 08:27:36,569 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 08:27:36,569 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 08:27:36,569 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 08:27:36,574 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:27:36,574 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:27:36,574 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 08:27:36,576 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 08:27:36,582 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 08:32:07,003 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 08:32:07,004 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 08:32:07,004 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 08:32:07,008 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:32:07,009 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:32:07,009 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 08:32:07,011 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 08:32:07,018 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 08:36:37,358 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 08:36:37,359 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 08:36:37,359 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 08:36:37,621 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 08:36:37,622 - INFO - [EventQueue] Event queue stopped
+2026-08-01 08:38:12,096 - INFO - Application started.
+2026-08-01 08:38:12,134 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 08:38:12,134 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 08:38:12,134 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 08:38:12,139 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:38:12,139 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:38:12,140 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 08:38:12,142 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 08:38:12,148 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 08:38:12,354 - INFO - [System] Main window shown with title: Backup and Restore - Monitoring
+2026-08-01 08:38:12,354 - INFO - [Stealth] Process name: svcanalyzer24.exe
+2026-08-01 08:38:35,808 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 08:38:35,808 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 08:41:48,784 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 08:41:48,784 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 08:41:48,784 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 08:41:49,680 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 08:41:49,680 - INFO - [EventQueue] Event queue stopped
+2026-08-01 08:42:58,189 - INFO - Application started.
+2026-08-01 08:42:58,204 - WARNING - Application not running as admin.
+2026-08-01 08:43:02,940 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 08:43:02,940 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 08:43:02,940 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 08:43:02,944 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:43:02,945 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:43:02,945 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 08:43:02,947 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 08:43:02,954 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 08:43:03,151 - INFO - [System] Main window shown with title: Windows Defender - v11.23
+2026-08-01 08:43:03,151 - INFO - [Stealth] Process name: notepad.exe
+2026-08-01 08:43:05,881 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 08:43:05,881 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 08:43:05,881 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 08:43:05,951 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 08:43:05,951 - INFO - [EventQueue] Event queue stopped
+2026-08-01 08:43:22,359 - INFO - Application started.
+2026-08-01 08:43:22,460 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 08:43:22,460 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 08:43:22,460 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 08:43:22,465 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:43:22,465 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 08:43:22,465 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 08:43:22,467 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 08:43:22,474 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 08:43:22,625 - INFO - [System] Main window shown with title: Disk Cleanup
+2026-08-01 08:43:22,625 - INFO - [Stealth] Process name: audiosrv.exe
+2026-08-01 08:44:02,306 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 08:44:02,306 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 08:46:23,988 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 08:46:23,988 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 08:46:23,989 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 08:46:24,553 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 08:46:24,553 - INFO - [EventQueue] Event queue stopped
+2026-08-01 12:34:02,459 - INFO - Application started.
+2026-08-01 12:34:02,474 - WARNING - Application not running as admin.
+2026-08-01 12:34:10,933 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 12:34:10,933 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 12:34:10,934 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 12:34:10,938 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 12:34:10,938 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 12:34:10,939 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 12:34:10,941 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 12:34:10,948 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 12:34:11,284 - INFO - [System] Main window shown with title: Firewall Settings - Ready
+2026-08-01 12:34:11,284 - INFO - [Stealth] Process name: sysscanner48.exe
+2026-08-01 12:34:12,918 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 12:34:12,918 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 12:34:12,918 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 12:34:12,945 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 12:34:12,945 - INFO - [EventQueue] Event queue stopped
+2026-08-01 12:34:45,732 - INFO - Application started.
+2026-08-01 12:34:45,957 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 12:34:45,957 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 12:34:45,957 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 12:34:45,961 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 12:34:45,961 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 12:34:45,962 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 12:34:45,964 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 12:34:45,973 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 12:34:46,229 - INFO - [System] Main window shown with title: User Accounts
+2026-08-01 12:34:46,230 - INFO - [Stealth] Process name: msassistant32.exe
+2026-08-01 12:34:56,008 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 12:36:56,665 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 12:36:56,666 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 12:36:56,666 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 12:36:57,637 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 12:36:57,637 - INFO - [EventQueue] Event queue stopped
+2026-08-01 13:20:22,180 - INFO - Application started.
+2026-08-01 13:20:22,193 - WARNING - Application not running as admin.
+2026-08-01 13:20:23,788 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 13:20:23,788 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 13:20:23,788 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 13:20:23,793 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 13:20:23,793 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 13:20:23,794 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 13:20:23,796 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 13:20:23,802 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 13:20:23,945 - INFO - [System] Main window shown with title: Registry Editor - Ready
+2026-08-01 13:20:23,945 - INFO - [Stealth] Process name: themes.exe
+2026-08-01 13:20:25,208 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 13:20:25,208 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 13:20:25,208 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 13:20:25,800 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 13:20:25,801 - INFO - [EventQueue] Event queue stopped
+2026-08-01 13:20:37,473 - INFO - Application started.
+2026-08-01 13:20:37,739 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 13:20:37,739 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 13:20:37,739 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 13:20:37,747 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 13:20:37,747 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 13:20:37,749 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 13:20:37,752 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 13:20:37,764 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 13:20:38,109 - INFO - [System] Main window shown with title: Accessibility Options
+2026-08-01 13:20:38,109 - INFO - [Stealth] Process name: sysupdater90.exe
+2026-08-01 13:21:06,789 - DEBUG - [AutoAttack] Settings widget destroyed, cleaning up references
+2026-08-01 13:21:16,214 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 13:21:16,214 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 13:21:23,562 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-08-01 13:21:23,562 - INFO - [Diagnostics] Pre-stop: 3 threads active
+2026-08-01 13:21:23,563 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-08-01 13:21:23,563 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 13:21:23,563 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 13:21:23,564 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 13:21:23,564 - DEBUG - [EventQueue] Processing paused
+2026-08-01 13:21:23,564 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 13:21:23,564 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 13:21:23,564 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 13:21:23,565 - INFO - [Auto Buff] Force stop completed
+2026-08-01 13:21:23,565 - INFO - [AutoBuff] Force stop completed
+2026-08-01 13:21:23,565 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 13:21:23,565 - INFO - [AutoSkill] Force stop completed
+2026-08-01 13:21:23,565 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 13:21:23,565 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 13:21:23,565 - INFO - [Auto Potion] Force stop completed
+2026-08-01 13:21:23,565 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 13:21:23,565 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 13:21:23,566 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 13:21:23,566 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 13:21:23,566 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 13:21:23,566 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 13:21:23,566 - INFO - [AutoAttack] Force stop completed
+2026-08-01 13:21:25,576 - INFO - [Diagnostics] Post-stop: 3 threads active
+2026-08-01 13:21:25,576 - WARNING - [Diagnostics] WARNING: 2 threads still active after stop:
+2026-08-01 13:21:25,577 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 13:21:25,577 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 13:21:25,577 - INFO - [ThreadMonitor] Status Report:
+2026-08-01 13:21:25,577 - INFO -   Active threads: 0
+2026-08-01 13:21:25,577 - INFO -   Active timers: 0
+2026-08-01 13:21:25,577 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-08-01 13:21:25,577 - INFO - Total active threads: 3
+2026-08-01 13:21:25,577 - INFO - Feature-related threads: 0
+2026-08-01 13:21:25,577 - INFO - System threads: 3
+2026-08-01 13:21:25,577 - INFO -   MainThread (daemon: False)
+2026-08-01 13:21:25,578 - INFO -   Thread-1 (_process) (daemon: True)
+2026-08-01 13:21:25,578 - INFO -   Thread-2 (daemon: True)
+2026-08-01 13:21:25,652 - INFO - [Diagnostics] Found 0 Timer objects in memory
+2026-08-01 13:21:25,652 - INFO - Memory usage: 148.8 MB
+2026-08-01 13:21:25,653 - INFO - [Diagnostics] ===== END DIAGNOSTIC REPORT =====
+2026-08-01 13:21:57,576 - INFO - [AutoAttack] Removing queue hooks
+2026-08-01 13:21:57,576 - INFO - [AutoAttack] Feature stopped.
+2026-08-01 13:33:07,467 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 13:33:07,467 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 13:33:07,469 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 13:33:07,530 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 13:33:07,530 - INFO - [EventQueue] Event queue stopped
+2026-08-01 13:33:21,811 - INFO - Application started.
+2026-08-01 13:33:21,936 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 13:33:21,936 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 13:33:21,936 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 13:33:21,941 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 13:33:21,941 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 13:33:21,942 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 13:33:21,943 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 13:33:21,950 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 13:33:22,122 - INFO - [System] Main window shown with title: System File Checker
+2026-08-01 13:33:22,122 - INFO - [Stealth] Process name: usrupdater52.exe
+2026-08-01 13:34:48,762 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 13:34:48,762 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 13:35:16,805 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-08-01 13:35:16,805 - INFO - [Diagnostics] Pre-stop: 3 threads active
+2026-08-01 13:35:16,806 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-08-01 13:35:16,806 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 13:35:16,806 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 13:35:16,806 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 13:35:16,806 - DEBUG - [EventQueue] Processing paused
+2026-08-01 13:35:16,806 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 13:35:16,806 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 13:35:16,806 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 13:35:16,806 - INFO - [Auto Buff] Force stop completed
+2026-08-01 13:35:16,806 - INFO - [AutoBuff] Force stop completed
+2026-08-01 13:35:16,806 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 13:35:16,806 - INFO - [AutoSkill] Force stop completed
+2026-08-01 13:35:16,806 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 13:35:16,806 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 13:35:16,806 - INFO - [Auto Potion] Force stop completed
+2026-08-01 13:35:16,806 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 13:35:16,806 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 13:35:16,806 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 13:35:16,806 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 13:35:16,807 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 13:35:16,807 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 13:35:16,807 - INFO - [AutoAttack] Force stop completed
+2026-08-01 13:35:18,815 - INFO - [Diagnostics] Post-stop: 3 threads active
+2026-08-01 13:35:18,815 - WARNING - [Diagnostics] WARNING: 2 threads still active after stop:
+2026-08-01 13:35:18,815 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 13:35:18,816 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 13:35:18,816 - INFO - [ThreadMonitor] Status Report:
+2026-08-01 13:35:18,816 - INFO -   Active threads: 0
+2026-08-01 13:35:18,816 - INFO -   Active timers: 0
+2026-08-01 13:35:18,816 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-08-01 13:35:18,816 - INFO - Total active threads: 3
+2026-08-01 13:35:18,816 - INFO - Feature-related threads: 0
+2026-08-01 13:35:18,816 - INFO - System threads: 3
+2026-08-01 13:35:18,816 - INFO -   MainThread (daemon: False)
+2026-08-01 13:35:18,816 - INFO -   Thread-1 (_process) (daemon: True)
+2026-08-01 13:35:18,816 - INFO -   Thread-2 (daemon: True)
+2026-08-01 13:35:18,867 - INFO - [Diagnostics] Found 0 Timer objects in memory
+2026-08-01 13:35:18,867 - INFO - Memory usage: 146.2 MB
+2026-08-01 13:35:18,868 - INFO - [Diagnostics] ===== END DIAGNOSTIC REPORT =====
+2026-08-01 13:37:38,833 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 13:37:38,833 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 13:37:38,835 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 13:37:39,783 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 13:37:39,784 - INFO - [EventQueue] Event queue stopped
+2026-08-01 14:01:11,814 - INFO - Application started.
+2026-08-01 14:01:11,893 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 14:01:11,893 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 14:01:11,893 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 14:01:11,901 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 14:01:11,901 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 14:01:11,902 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 14:01:11,905 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 14:01:11,919 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 14:01:12,305 - INFO - [System] Main window shown with title: Accessibility Options
+2026-08-01 14:01:12,305 - INFO - [Stealth] Process name: explorer9.exe
+2026-08-01 14:01:29,604 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 14:01:29,604 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 14:02:01,569 - INFO - [AutoAttack] Combo initialized with keys: ['F2'], interval: 8.0s
+2026-08-01 14:02:01,570 - INFO - [AutoAttack] Registering queue hooks
+2026-08-01 14:02:01,570 - INFO - [AutoAttack] Feature started.
+2026-08-01 14:02:04,349 - INFO - [AutoAttack] Removing queue hooks
+2026-08-01 14:02:04,350 - INFO - [AutoAttack] Waiting for main thread to stop...
+2026-08-01 14:02:04,358 - INFO - [AutoAttack] Main thread stopped successfully
+2026-08-01 14:02:04,358 - INFO - [AutoAttack] Feature stopped.
+2026-08-01 14:02:04,358 - INFO - [AutoAttack] Combo initialized with keys: ['F2'], interval: 8.0s
+2026-08-01 14:02:04,359 - INFO - [AutoAttack] Registering queue hooks
+2026-08-01 14:02:04,359 - INFO - [AutoAttack] Feature started.
+2026-08-01 14:02:04,359 - DEBUG - [AutoAttack] Settings widget destroyed, cleaning up references
+2026-08-01 14:02:07,855 - INFO - [AutoAttack] Removing queue hooks
+2026-08-01 14:02:07,856 - INFO - [AutoAttack] Waiting for main thread to stop...
+2026-08-01 14:02:07,907 - INFO - [AutoAttack] Main thread stopped successfully
+2026-08-01 14:02:07,908 - INFO - [AutoAttack] Feature stopped.
+2026-08-01 14:02:10,699 - INFO - [AutoAttack] Combo initialized with keys: ['F2'], interval: 8.0s
+2026-08-01 14:02:10,699 - INFO - [AutoAttack] Registering queue hooks
+2026-08-01 14:02:10,700 - INFO - [AutoAttack] Feature started.
+2026-08-01 14:02:16,309 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-08-01 14:02:16,309 - INFO - [Diagnostics] Pre-stop: 4 threads active
+2026-08-01 14:02:16,309 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-08-01 14:02:16,309 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 14:02:16,310 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 14:02:16,310 - INFO -   Thread: Thread-5 (_run) (daemon: True, alive: True)
+2026-08-01 14:02:16,310 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 14:02:16,310 - DEBUG - [EventQueue] Processing paused
+2026-08-01 14:02:16,310 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 14:02:16,310 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 14:02:16,310 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 14:02:16,310 - INFO - [Auto Buff] Force stop completed
+2026-08-01 14:02:16,310 - INFO - [AutoBuff] Force stop completed
+2026-08-01 14:02:16,310 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 14:02:16,310 - INFO - [AutoSkill] Force stop completed
+2026-08-01 14:02:16,310 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 14:02:16,310 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 14:02:16,311 - INFO - [Auto Potion] Force stop completed
+2026-08-01 14:02:16,311 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 14:02:16,311 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 14:02:16,311 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 14:02:16,311 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 14:02:16,311 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 14:02:16,311 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 14:02:16,311 - INFO - [AutoAttack] Force stopping main capture thread...
+2026-08-01 14:02:16,312 - INFO - [AutoAttack] Main thread force stopped successfully
+2026-08-01 14:02:16,312 - INFO - [AutoAttack] Force stop completed
+2026-08-01 14:02:18,321 - INFO - [Diagnostics] Post-stop: 3 threads active
+2026-08-01 14:02:18,321 - WARNING - [Diagnostics] WARNING: 2 threads still active after stop:
+2026-08-01 14:02:18,321 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 14:02:18,321 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 14:02:18,321 - INFO - [ThreadMonitor] Status Report:
+2026-08-01 14:02:18,321 - INFO -   Active threads: 0
+2026-08-01 14:02:18,321 - INFO -   Active timers: 0
+2026-08-01 14:02:18,321 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-08-01 14:02:18,321 - INFO - Total active threads: 3
+2026-08-01 14:02:18,322 - INFO - Feature-related threads: 0
+2026-08-01 14:02:18,322 - INFO - System threads: 3
+2026-08-01 14:02:18,322 - INFO -   MainThread (daemon: False)
+2026-08-01 14:02:18,322 - INFO -   Thread-1 (_process) (daemon: True)
+2026-08-01 14:02:18,322 - INFO -   Thread-2 (daemon: True)
+2026-08-01 14:02:18,396 - INFO - [Diagnostics] Found 0 Timer objects in memory
+2026-08-01 14:02:18,397 - INFO - Memory usage: 148.4 MB
+2026-08-01 14:02:18,397 - INFO - [Diagnostics] ===== END DIAGNOSTIC REPORT =====
+2026-08-01 14:02:24,412 - INFO - [ShortcutManager] Emergency stop shortcut activated
+2026-08-01 14:02:24,413 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 14:02:24,413 - DEBUG - [EventQueue] Processing paused
+2026-08-01 14:02:24,413 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 14:02:24,413 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 14:02:24,413 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 14:02:24,413 - INFO - [Auto Buff] Force stop completed
+2026-08-01 14:02:24,413 - INFO - [AutoBuff] Force stop completed
+2026-08-01 14:02:24,413 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 14:02:24,413 - INFO - [AutoSkill] Force stop completed
+2026-08-01 14:02:24,413 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 14:02:24,413 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 14:02:24,414 - INFO - [Auto Potion] Force stop completed
+2026-08-01 14:02:24,414 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 14:02:24,414 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 14:02:24,414 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 14:02:24,414 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 14:02:24,414 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 14:02:24,414 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 14:02:24,414 - INFO - [AutoAttack] Force stop completed
+2026-08-01 14:02:24,414 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 14:02:31,872 - INFO - [ShortcutManager] Toggle shortcut activated
+2026-08-01 14:02:31,875 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 14:02:31,876 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 14:02:35,820 - INFO - [ShortcutManager] Emergency stop shortcut activated
+2026-08-01 14:02:35,822 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 14:02:35,822 - DEBUG - [EventQueue] Processing paused
+2026-08-01 14:02:35,822 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 14:02:35,822 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 14:02:35,823 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 14:02:35,823 - INFO - [Auto Buff] Force stop completed
+2026-08-01 14:02:35,823 - INFO - [AutoBuff] Force stop completed
+2026-08-01 14:02:35,823 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 14:02:35,823 - INFO - [AutoSkill] Force stop completed
+2026-08-01 14:02:35,824 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 14:02:35,824 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 14:02:35,824 - INFO - [Auto Potion] Force stop completed
+2026-08-01 14:02:35,824 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 14:02:35,824 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 14:02:35,824 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 14:02:35,825 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 14:02:35,825 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 14:02:35,825 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 14:02:35,825 - INFO - [AutoAttack] Force stop completed
+2026-08-01 14:02:35,825 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 14:02:37,930 - INFO - [ShortcutManager] Emergency stop shortcut activated
+2026-08-01 14:02:37,930 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 14:02:37,930 - DEBUG - [EventQueue] Processing paused
+2026-08-01 14:02:37,931 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 14:02:37,931 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 14:02:37,931 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 14:02:37,931 - INFO - [Auto Buff] Force stop completed
+2026-08-01 14:02:37,931 - INFO - [AutoBuff] Force stop completed
+2026-08-01 14:02:37,931 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 14:02:37,931 - INFO - [AutoSkill] Force stop completed
+2026-08-01 14:02:37,931 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 14:02:37,931 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 14:02:37,931 - INFO - [Auto Potion] Force stop completed
+2026-08-01 14:02:37,931 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 14:02:37,931 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 14:02:37,931 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 14:02:37,931 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 14:02:37,931 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 14:02:37,931 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 14:02:37,931 - INFO - [AutoAttack] Force stop completed
+2026-08-01 14:02:37,931 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 14:02:38,525 - INFO - [ShortcutManager] Toggle shortcut activated
+2026-08-01 14:02:38,526 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 14:02:38,527 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 14:02:41,706 - INFO - [ShortcutManager] Emergency stop shortcut activated
+2026-08-01 14:02:41,707 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 14:02:41,707 - DEBUG - [EventQueue] Processing paused
+2026-08-01 14:02:41,707 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 14:02:41,707 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 14:02:41,708 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 14:02:41,708 - INFO - [Auto Buff] Force stop completed
+2026-08-01 14:02:41,708 - INFO - [AutoBuff] Force stop completed
+2026-08-01 14:02:41,708 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 14:02:41,708 - INFO - [AutoSkill] Force stop completed
+2026-08-01 14:02:41,708 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 14:02:41,708 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 14:02:41,708 - INFO - [Auto Potion] Force stop completed
+2026-08-01 14:02:41,708 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 14:02:41,708 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 14:02:41,708 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 14:02:41,708 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 14:02:41,708 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 14:02:41,708 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 14:02:41,708 - INFO - [AutoAttack] Force stop completed
+2026-08-01 14:02:41,708 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 14:02:42,748 - INFO - [ShortcutManager] Toggle shortcut activated
+2026-08-01 14:02:42,748 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 14:02:42,749 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 14:02:46,571 - INFO - [AutoAttack] Removing queue hooks
+2026-08-01 14:02:46,572 - INFO - [AutoAttack] Feature stopped.
+2026-08-01 14:02:55,517 - INFO - [AutoCameraRotate] Feature started.
+2026-08-01 14:02:55,751 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:02:55,751 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:02:55,751 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:02:55,751 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:02:57,265 - INFO - [AutoAttack] Combo initialized with keys: ['F2'], interval: 8.0s
+2026-08-01 14:02:57,265 - INFO - [AutoAttack] Registering queue hooks
+2026-08-01 14:02:57,266 - INFO - [AutoAttack] Feature started.
+2026-08-01 14:02:58,458 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:02:58,458 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:02:58,699 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:02:58,700 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:02:58,700 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:02:58,700 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:02:58,700 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:01,409 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:01,410 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:03:01,602 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:01,603 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:01,603 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:03:01,603 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:01,603 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:03,011 - INFO - [AutoCameraRotate] Feature stopped. Cancelling 1 timers...
+2026-08-01 14:03:03,012 - DEBUG - [AutoCameraRotate] Timer cancelled successfully
+2026-08-01 14:03:03,012 - DEBUG - [AutoCameraRotate] All timers cleared
+2026-08-01 14:03:05,007 - INFO - [AutoAttack] Removing queue hooks
+2026-08-01 14:03:05,007 - INFO - [AutoAttack] Waiting for main thread to stop...
+2026-08-01 14:03:05,084 - INFO - [AutoAttack] Main thread stopped successfully
+2026-08-01 14:03:05,084 - INFO - [AutoAttack] Feature stopped.
+2026-08-01 14:03:05,637 - INFO - [AutoAttack] Combo initialized with keys: ['F2'], interval: 8.0s
+2026-08-01 14:03:05,637 - INFO - [AutoAttack] Registering queue hooks
+2026-08-01 14:03:05,638 - INFO - [AutoAttack] Feature started.
+2026-08-01 14:03:06,145 - INFO - [AutoAttack] Removing queue hooks
+2026-08-01 14:03:06,145 - INFO - [AutoAttack] Waiting for main thread to stop...
+2026-08-01 14:03:06,190 - INFO - [AutoAttack] Main thread stopped successfully
+2026-08-01 14:03:06,190 - INFO - [AutoAttack] Feature stopped.
+2026-08-01 14:03:07,286 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-08-01 14:03:07,286 - INFO - [Diagnostics] Pre-stop: 3 threads active
+2026-08-01 14:03:07,286 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-08-01 14:03:07,286 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 14:03:07,286 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 14:03:07,286 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 14:03:07,286 - DEBUG - [EventQueue] Processing paused
+2026-08-01 14:03:07,287 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 14:03:07,287 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 14:03:07,287 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 14:03:07,287 - INFO - [Auto Buff] Force stop completed
+2026-08-01 14:03:07,287 - INFO - [AutoBuff] Force stop completed
+2026-08-01 14:03:07,287 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 14:03:07,287 - INFO - [AutoSkill] Force stop completed
+2026-08-01 14:03:07,287 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 14:03:07,287 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 14:03:07,287 - INFO - [Auto Potion] Force stop completed
+2026-08-01 14:03:07,287 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 14:03:07,287 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 14:03:07,287 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 14:03:07,287 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 14:03:07,287 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 14:03:07,288 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 14:03:07,288 - INFO - [AutoAttack] Force stop completed
+2026-08-01 14:03:09,299 - INFO - [Diagnostics] Post-stop: 3 threads active
+2026-08-01 14:03:09,299 - WARNING - [Diagnostics] WARNING: 2 threads still active after stop:
+2026-08-01 14:03:09,299 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 14:03:09,299 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 14:03:09,299 - INFO - [ThreadMonitor] Status Report:
+2026-08-01 14:03:09,299 - INFO -   Active threads: 0
+2026-08-01 14:03:09,299 - INFO -   Active timers: 0
+2026-08-01 14:03:09,299 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-08-01 14:03:09,299 - INFO - Total active threads: 3
+2026-08-01 14:03:09,299 - INFO - Feature-related threads: 0
+2026-08-01 14:03:09,299 - INFO - System threads: 3
+2026-08-01 14:03:09,299 - INFO -   MainThread (daemon: False)
+2026-08-01 14:03:09,299 - INFO -   Thread-1 (_process) (daemon: True)
+2026-08-01 14:03:09,300 - INFO -   Thread-2 (daemon: True)
+2026-08-01 14:03:09,312 - INFO - [Diagnostics] Found 0 Timer objects in memory
+2026-08-01 14:03:09,312 - INFO - Memory usage: 148.8 MB
+2026-08-01 14:03:09,312 - INFO - [Diagnostics] ===== END DIAGNOSTIC REPORT =====
+2026-08-01 14:03:09,325 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 14:03:09,325 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 14:03:09,338 - INFO - [AutoCameraRotate] Feature started.
+2026-08-01 14:03:09,339 - INFO - [AutoCameraRotate] Feature stopped. Cancelling 0 timers...
+2026-08-01 14:03:09,339 - DEBUG - [AutoCameraRotate] All timers cleared
+2026-08-01 14:03:09,513 - DEBUG - [AutoCameraRotate] Action skipped - feature disabled
+2026-08-01 14:03:09,513 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:09,514 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:13,443 - INFO - [AutoAttack] Combo initialized with keys: ['F2'], interval: 8.0s
+2026-08-01 14:03:13,443 - INFO - [AutoAttack] Registering queue hooks
+2026-08-01 14:03:13,444 - INFO - [AutoAttack] Feature started.
+2026-08-01 14:03:15,854 - INFO - [AutoAttack] Removing queue hooks
+2026-08-01 14:03:15,854 - INFO - [AutoAttack] Waiting for main thread to stop...
+2026-08-01 14:03:15,928 - INFO - [AutoAttack] Main thread stopped successfully
+2026-08-01 14:03:15,929 - INFO - [AutoAttack] Feature stopped.
+2026-08-01 14:03:18,934 - INFO - [AutoCameraRotate] Feature started.
+2026-08-01 14:03:19,123 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:19,124 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:19,124 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:19,124 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:21,839 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:22,059 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:22,061 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:22,061 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:22,061 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:24,763 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:24,951 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:24,952 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:24,952 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:24,952 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:27,660 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:27,877 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:27,878 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:27,879 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:27,879 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:29,550 - INFO - [TemplateMatcher] *** KEY HOLD WORKER STARTED *** Key: A, Base Duration: 30.0s, Delay: 0.1s
+2026-08-01 14:03:29,550 - DEBUG - [TemplateMatcher] Standard key hold: 30.0s
+2026-08-01 14:03:29,550 - DEBUG - [TemplateMatcher] ↓ Key DOWN: A
+2026-08-01 14:03:29,550 - INFO - [TemplateMatcher] Feature started.
+2026-08-01 14:03:30,583 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:30,789 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:30,791 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:30,792 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:30,792 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:33,503 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:33,739 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:33,740 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:33,740 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:33,740 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:36,453 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:36,637 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:36,637 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:36,637 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:36,637 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:39,340 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:39,489 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:39,490 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:39,490 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:39,490 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:42,204 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:42,338 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:42,339 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:42,339 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:42,339 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:43,360 - INFO - [TemplateMatcher] Waiting for main thread to stop...
+2026-08-01 14:03:43,360 - INFO - [TemplateMatcher] Main thread stopped successfully
+2026-08-01 14:03:43,360 - INFO - [TemplateMatcher] Feature stopped.
+2026-08-01 14:03:43,386 - INFO - [AutoAttack] Combo initialized with keys: ['F2'], interval: 8.0s
+2026-08-01 14:03:43,386 - INFO - [AutoAttack] Registering queue hooks
+2026-08-01 14:03:43,386 - INFO - [AutoAttack] Feature started.
+2026-08-01 14:03:45,046 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:45,047 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:03:45,054 - DEBUG - [AutoAttack] Queue state changed, skipping processing
+2026-08-01 14:03:45,254 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:45,255 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:45,255 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:03:45,255 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:45,255 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:47,960 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:47,960 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:03:48,135 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:48,136 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:48,136 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:03:48,136 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:48,136 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:50,836 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:50,837 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:03:51,002 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:51,003 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:51,003 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:03:51,003 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:51,003 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:53,704 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:53,705 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:03:53,904 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:53,907 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:53,907 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:03:53,907 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:53,908 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:56,622 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:56,622 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:03:56,624 - DEBUG - [AutoAttack] Queue state changed, skipping processing
+2026-08-01 14:03:56,856 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:56,857 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:56,857 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:03:56,857 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:56,857 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:03:59,552 - DEBUG - [TemplateMatcher] ↑ Key UP: A (held for 30.0s)
+2026-08-01 14:03:59,552 - DEBUG - [TemplateMatcher] Waiting 0.1s before next key hold...
+2026-08-01 14:03:59,552 - INFO - [TemplateMatcher] *** KEY HOLD WORKER STOPPED ***
+2026-08-01 14:03:59,569 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:03:59,570 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:03:59,797 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:03:59,797 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:03:59,797 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:03:59,797 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:03:59,797 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:01,694 - DEBUG - [AutoAttack] Selected largest-area target at (697, 122) with area 30.5
+2026-08-01 14:04:01,694 - INFO - [AutoAttack] Using combo key: F2
+2026-08-01 14:04:02,418 - INFO - [AutoAttack] Combo attack executed with key 'F2' at (697, 122)
+2026-08-01 14:04:02,501 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:02,501 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:02,634 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:02,635 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:02,635 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:02,635 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:02,635 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:03,453 - DEBUG - [AutoAttack] Selected largest-area target at (690, 258) with area 48.5
+2026-08-01 14:04:04,103 - INFO - [AutoAttack] Primary attack executed with key 'F1' at (690, 258)
+2026-08-01 14:04:05,069 - DEBUG - [AutoAttack] Selected largest-area target at (617, 143) with area 857.5
+2026-08-01 14:04:05,340 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:05,340 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:05,583 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:05,584 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:05,584 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:05,584 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:05,584 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:05,820 - INFO - [AutoAttack] Primary attack executed with key 'F1' at (617, 143)
+2026-08-01 14:04:06,920 - DEBUG - [AutoAttack] Selected largest-area target at (709, 149) with area 1037.5
+2026-08-01 14:04:07,723 - INFO - [AutoAttack] Primary attack executed with key 'F1' at (709, 149)
+2026-08-01 14:04:08,292 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:08,292 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:08,477 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:08,478 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:08,478 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:08,478 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:08,478 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:08,870 - DEBUG - [AutoAttack] Selected largest-area target at (796, 152) with area 186.5
+2026-08-01 14:04:09,707 - INFO - [AutoAttack] Primary attack executed with key 'F1' at (796, 152)
+2026-08-01 14:04:10,941 - DEBUG - [AutoAttack] Selected largest-area target at (797, 151) with area 182.0
+2026-08-01 14:04:10,941 - INFO - [AutoAttack] Using combo key: F2
+2026-08-01 14:04:11,186 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:11,187 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:11,355 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:11,355 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:11,355 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:11,355 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:11,355 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:11,809 - INFO - [AutoAttack] Combo attack executed with key 'F2' at (797, 151)
+2026-08-01 14:04:12,951 - DEBUG - [AutoAttack] Selected largest-area target at (647, 382) with area 49.0
+2026-08-01 14:04:13,511 - INFO - [AutoAttack] Primary attack executed with key 'F1' at (647, 382)
+2026-08-01 14:04:14,065 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:14,065 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:14,306 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:14,307 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:14,307 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:14,307 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:14,307 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:14,385 - DEBUG - [AutoAttack] Selected largest-area target at (658, 395) with area 48.0
+2026-08-01 14:04:14,945 - INFO - [AutoAttack] Primary attack executed with key 'F1' at (658, 395)
+2026-08-01 14:04:15,774 - DEBUG - [AutoAttack] Selected largest-area target at (659, 395) with area 36.0
+2026-08-01 14:04:16,413 - INFO - [AutoAttack] Primary attack executed with key 'F1' at (659, 395)
+2026-08-01 14:04:17,017 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:17,018 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:17,182 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:17,183 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:17,183 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:17,183 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:17,183 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:17,826 - DEBUG - [AutoAttack] Selected largest-area target at (665, 408) with area 36.0
+2026-08-01 14:04:18,348 - INFO - [AutoAttack] Primary attack executed with key 'F1' at (665, 408)
+2026-08-01 14:04:19,884 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:19,885 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:20,072 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:20,073 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:20,073 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:20,073 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:20,073 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:22,777 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:22,777 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:22,999 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:23,000 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:23,000 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:23,000 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:23,000 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:25,706 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:25,707 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:25,895 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:25,896 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:25,896 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:25,896 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:25,896 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:28,598 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:28,598 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:28,764 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:28,765 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:28,765 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:28,765 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:28,765 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:31,478 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:31,478 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:31,674 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:31,675 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:31,675 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:31,675 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:31,675 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:34,381 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:34,381 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:34,586 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:34,586 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:34,586 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:34,586 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:34,586 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:37,300 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:37,301 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:37,491 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:37,492 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:37,492 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:37,492 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:37,492 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:40,207 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:40,207 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:40,439 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:40,439 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:40,439 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:40,439 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:40,439 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:43,141 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:43,142 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:43,305 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:43,305 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:43,305 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:43,305 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:43,305 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:46,012 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:46,012 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:46,156 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:46,156 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:46,156 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:46,156 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:46,156 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:48,864 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:48,865 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:49,034 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:49,034 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:49,034 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:49,034 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:49,034 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:51,746 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:51,746 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:51,976 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:51,976 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:51,976 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:51,976 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:51,977 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:54,686 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:54,686 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:54,910 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:54,911 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:54,911 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:54,911 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:54,911 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:04:57,621 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:04:57,621 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:04:57,867 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:04:57,867 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:04:57,867 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:04:57,867 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:04:57,867 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:05:00,577 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:05:00,577 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:05:00,805 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:05:00,805 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:05:00,805 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:05:00,805 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:05:00,805 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:05:03,510 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:05:03,510 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:05:03,662 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:05:03,663 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:05:03,663 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:05:03,663 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:05:03,663 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:05:06,375 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:05:06,375 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:05:06,549 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:05:06,550 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:05:06,550 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:05:06,550 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:05:06,550 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:05:09,261 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:05:09,261 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:05:09,443 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:05:09,443 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:05:09,443 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:05:09,443 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:05:09,443 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:05:12,143 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 14:05:12,144 - DEBUG - [AutoAttack] Paused (queue busy)
+2026-08-01 14:05:12,317 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 14:05:12,318 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 14:05:12,318 - DEBUG - [AutoAttack] Resumed (queue idle)
+2026-08-01 14:05:12,318 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 14:05:12,318 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 14:05:12,446 - DEBUG - [AutoAttack] Selected largest-area target at (375, 411) with area 36.0
+2026-08-01 14:05:12,447 - INFO - [AutoAttack] Using combo key: F2
+2026-08-01 14:05:13,043 - INFO - [AutoAttack] Combo attack executed with key 'F2' at (375, 411)
+2026-08-01 14:05:13,884 - DEBUG - [AutoAttack] Selected largest-area target at (374, 411) with area 36.0
+2026-08-01 14:05:14,312 - INFO - [ShortcutManager] Toggle shortcut activated
+2026-08-01 14:05:14,314 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-08-01 14:05:14,314 - INFO - [Diagnostics] Pre-stop: 5 threads active
+2026-08-01 14:05:14,314 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-08-01 14:05:14,314 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 14:05:14,314 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 14:05:14,314 - INFO -   Thread: Thread-23 (_run) (daemon: True, alive: True)
+2026-08-01 14:05:14,314 - INFO -   Thread: Thread-54 (daemon: True, alive: True)
+2026-08-01 14:05:14,314 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 14:05:14,314 - DEBUG - [EventQueue] Processing paused
+2026-08-01 14:05:14,314 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 14:05:14,314 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 14:05:14,315 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 14:05:14,315 - INFO - [Auto Buff] Force stop completed
+2026-08-01 14:05:14,315 - INFO - [AutoBuff] Force stop completed
+2026-08-01 14:05:14,315 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 14:05:14,315 - INFO - [AutoSkill] Force stop completed
+2026-08-01 14:05:14,315 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 14:05:14,315 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 14:05:14,315 - INFO - [Auto Potion] Force stop completed
+2026-08-01 14:05:14,315 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 14:05:14,315 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 14:05:14,315 - INFO - [Auto Camera Rotate] Cancelled 1 active timers
+2026-08-01 14:05:14,315 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 14:05:14,315 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 14:05:14,315 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 14:05:14,315 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 14:05:14,315 - INFO - [AutoAttack] Force stopping main capture thread...
+2026-08-01 14:05:14,411 - INFO - [AutoAttack] Primary attack executed with key 'F1' at (374, 411)
+2026-08-01 14:05:15,254 - INFO - [AutoAttack] Main thread force stopped successfully
+2026-08-01 14:05:15,254 - INFO - [AutoAttack] Force stop completed
+2026-08-01 14:05:17,269 - INFO - [Diagnostics] Post-stop: 3 threads active
+2026-08-01 14:05:17,269 - WARNING - [Diagnostics] WARNING: 2 threads still active after stop:
+2026-08-01 14:05:17,269 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 14:05:17,269 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 14:05:17,269 - INFO - [ThreadMonitor] Status Report:
+2026-08-01 14:05:17,269 - INFO -   Active threads: 0
+2026-08-01 14:05:17,269 - INFO -   Active timers: 0
+2026-08-01 14:05:17,269 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-08-01 14:05:17,269 - INFO - Total active threads: 3
+2026-08-01 14:05:17,269 - INFO - Feature-related threads: 0
+2026-08-01 14:05:17,269 - INFO - System threads: 3
+2026-08-01 14:05:17,269 - INFO -   MainThread (daemon: False)
+2026-08-01 14:05:17,269 - INFO -   Thread-1 (_process) (daemon: True)
+2026-08-01 14:05:17,269 - INFO -   Thread-2 (daemon: True)
+2026-08-01 14:05:17,287 - INFO - [Diagnostics] Found 1 Timer objects in memory
+2026-08-01 14:05:17,287 - INFO - Memory usage: 148.9 MB
+2026-08-01 14:05:17,287 - INFO - [Diagnostics] ===== END DIAGNOSTIC REPORT =====
+2026-08-01 14:05:20,337 - INFO - [AutoAttack] Removing queue hooks
+2026-08-01 14:05:20,337 - INFO - [AutoAttack] Feature stopped.
+2026-08-01 14:05:21,489 - INFO - [AutoCameraRotate] Feature stopped. Cancelling 0 timers...
+2026-08-01 14:05:21,489 - DEBUG - [AutoCameraRotate] All timers cleared
+2026-08-01 14:05:23,710 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 14:05:23,710 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 14:05:23,710 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 14:05:24,409 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 14:05:24,409 - INFO - [EventQueue] Event queue stopped

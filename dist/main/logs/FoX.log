@@ -1,0 +1,799 @@
+2026-08-01 16:34:49,463 - INFO - Application started.
+2026-08-01 16:34:49,540 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 16:34:49,540 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 16:34:49,540 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 16:34:49,545 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 16:34:49,545 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 16:34:49,546 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 16:34:49,549 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:34:49,556 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 16:34:52,477 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 16:34:52,477 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:34:59,202 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-08-01 16:34:59,202 - INFO - [Diagnostics] Pre-stop: 3 threads active
+2026-08-01 16:34:59,202 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-08-01 16:34:59,202 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 16:34:59,202 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 16:34:59,202 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 16:34:59,202 - DEBUG - [EventQueue] Processing paused
+2026-08-01 16:34:59,202 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 16:34:59,202 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 16:34:59,202 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 16:34:59,202 - INFO - [Auto Buff] Force stop completed
+2026-08-01 16:34:59,202 - INFO - [AutoBuff] Force stop completed
+2026-08-01 16:34:59,202 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 16:34:59,203 - INFO - [AutoSkill] Force stop completed
+2026-08-01 16:34:59,203 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 16:34:59,203 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 16:34:59,203 - INFO - [Auto Potion] Force stop completed
+2026-08-01 16:34:59,203 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 16:34:59,203 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 16:34:59,203 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 16:34:59,203 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 16:34:59,203 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 16:34:59,203 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 16:34:59,203 - INFO - [AutoAttack] Force stop completed
+2026-08-01 16:35:01,211 - INFO - [Diagnostics] Post-stop: 3 threads active
+2026-08-01 16:35:01,212 - WARNING - [Diagnostics] WARNING: 2 threads still active after stop:
+2026-08-01 16:35:01,212 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 16:35:01,212 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 16:35:01,212 - INFO - [ThreadMonitor] Status Report:
+2026-08-01 16:35:01,212 - INFO -   Active threads: 0
+2026-08-01 16:35:01,212 - INFO -   Active timers: 0
+2026-08-01 16:35:01,212 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-08-01 16:35:01,212 - INFO - Total active threads: 3
+2026-08-01 16:35:01,212 - INFO - Feature-related threads: 0
+2026-08-01 16:35:01,212 - INFO - System threads: 3
+2026-08-01 16:35:01,212 - INFO -   MainThread (daemon: False)
+2026-08-01 16:35:01,212 - INFO -   Thread-1 (_process) (daemon: True)
+2026-08-01 16:35:01,212 - INFO -   Thread-2 (daemon: True)
+2026-08-01 16:35:01,260 - INFO - [Diagnostics] Found 0 Timer objects in memory
+2026-08-01 16:35:01,260 - INFO - Memory usage: 152.2 MB
+2026-08-01 16:35:01,260 - INFO - [Diagnostics] ===== END DIAGNOSTIC REPORT =====
+2026-08-01 16:35:02,044 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 16:35:02,044 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:35:04,625 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-08-01 16:35:04,626 - INFO - [Diagnostics] Pre-stop: 3 threads active
+2026-08-01 16:35:04,626 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-08-01 16:35:04,626 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 16:35:04,626 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 16:35:04,626 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 16:35:04,626 - DEBUG - [EventQueue] Processing paused
+2026-08-01 16:35:04,626 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 16:35:04,626 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 16:35:04,626 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 16:35:04,626 - INFO - [Auto Buff] Force stop completed
+2026-08-01 16:35:04,626 - INFO - [AutoBuff] Force stop completed
+2026-08-01 16:35:04,626 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 16:35:04,626 - INFO - [AutoSkill] Force stop completed
+2026-08-01 16:35:04,626 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 16:35:04,626 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 16:35:04,626 - INFO - [Auto Potion] Force stop completed
+2026-08-01 16:35:04,626 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 16:35:04,626 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 16:35:04,626 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 16:35:04,626 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 16:35:04,626 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 16:35:04,626 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 16:35:04,626 - INFO - [AutoAttack] Force stop completed
+2026-08-01 16:35:06,636 - INFO - [Diagnostics] Post-stop: 3 threads active
+2026-08-01 16:35:06,636 - WARNING - [Diagnostics] WARNING: 2 threads still active after stop:
+2026-08-01 16:35:06,636 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 16:35:06,636 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 16:35:06,636 - INFO - [ThreadMonitor] Status Report:
+2026-08-01 16:35:06,636 - INFO -   Active threads: 0
+2026-08-01 16:35:06,636 - INFO -   Active timers: 0
+2026-08-01 16:35:06,636 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-08-01 16:35:06,636 - INFO - Total active threads: 3
+2026-08-01 16:35:06,636 - INFO - Feature-related threads: 0
+2026-08-01 16:35:06,636 - INFO - System threads: 3
+2026-08-01 16:35:06,636 - INFO -   MainThread (daemon: False)
+2026-08-01 16:35:06,636 - INFO -   Thread-1 (_process) (daemon: True)
+2026-08-01 16:35:06,636 - INFO -   Thread-2 (daemon: True)
+2026-08-01 16:35:06,648 - INFO - [Diagnostics] Found 0 Timer objects in memory
+2026-08-01 16:35:06,648 - INFO - Memory usage: 153.3 MB
+2026-08-01 16:35:06,648 - INFO - [Diagnostics] ===== END DIAGNOSTIC REPORT =====
+2026-08-01 16:35:23,127 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 16:35:23,128 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:35:31,552 - INFO - [AutoCameraRotate] Feature stopped. Cancelling 0 timers...
+2026-08-01 16:35:31,552 - DEBUG - [AutoCameraRotate] All timers cleared
+2026-08-01 16:35:36,513 - ERROR - [ProfileManagerWidget] Error updating profile list: 'ProfileManagerWidget' object has no attribute 'profile_combo'
+2026-08-01 16:35:37,669 - INFO - [AutoBuff] Settings saved to profile: test
+2026-08-01 16:35:51,268 - DEBUG - [AutoAttack] Settings widget destroyed, cleaning up references
+2026-08-01 16:35:59,708 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 16:35:59,708 - INFO - [ShortcutManager] Updated toggle shortcut: alt+f8
+2026-08-01 16:35:59,708 - INFO - [ShortcutManager] Updated emergency shortcut: alt+f7
+2026-08-01 16:36:02,196 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 16:36:02,197 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 16:36:02,197 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 16:36:03,181 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 16:36:03,181 - INFO - [EventQueue] Event queue stopped
+2026-08-01 16:36:09,250 - INFO - Application started.
+2026-08-01 16:36:09,491 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 16:36:09,491 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 16:36:09,491 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 16:36:09,496 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 16:36:09,497 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 16:36:09,497 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 16:36:09,499 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:36:09,506 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 16:36:15,440 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 16:36:15,440 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:36:22,524 - INFO - [AutoAttack] Removing queue hooks
+2026-08-01 16:36:22,524 - INFO - [AutoAttack] Feature stopped.
+2026-08-01 16:36:26,291 - INFO - [AutoCameraRotate] Feature started.
+2026-08-01 16:36:26,485 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 16:36:26,489 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 16:36:26,489 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:36:26,489 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:36:27,814 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-08-01 16:36:27,814 - INFO - [Diagnostics] Pre-stop: 4 threads active
+2026-08-01 16:36:27,814 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-08-01 16:36:27,814 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 16:36:27,814 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 16:36:27,814 - INFO -   Thread: Thread-3 (daemon: True, alive: True)
+2026-08-01 16:36:27,814 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 16:36:27,814 - DEBUG - [EventQueue] Processing paused
+2026-08-01 16:36:27,814 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 16:36:27,814 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 16:36:27,814 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 16:36:27,814 - INFO - [Auto Buff] Force stop completed
+2026-08-01 16:36:27,814 - INFO - [AutoBuff] Force stop completed
+2026-08-01 16:36:27,814 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 16:36:27,814 - INFO - [AutoSkill] Force stop completed
+2026-08-01 16:36:27,815 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 16:36:27,815 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 16:36:27,815 - INFO - [Auto Potion] Force stop completed
+2026-08-01 16:36:27,815 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 16:36:27,815 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 16:36:27,815 - INFO - [Auto Camera Rotate] Cancelled 1 active timers
+2026-08-01 16:36:27,815 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 16:36:27,815 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 16:36:27,815 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 16:36:27,815 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 16:36:27,815 - INFO - [AutoAttack] Force stop completed
+2026-08-01 16:36:29,822 - INFO - [Diagnostics] Post-stop: 3 threads active
+2026-08-01 16:36:29,822 - WARNING - [Diagnostics] WARNING: 2 threads still active after stop:
+2026-08-01 16:36:29,822 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 16:36:29,822 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 16:36:29,822 - INFO - [ThreadMonitor] Status Report:
+2026-08-01 16:36:29,822 - INFO -   Active threads: 0
+2026-08-01 16:36:29,822 - INFO -   Active timers: 0
+2026-08-01 16:36:29,822 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-08-01 16:36:29,822 - INFO - Total active threads: 3
+2026-08-01 16:36:29,822 - INFO - Feature-related threads: 0
+2026-08-01 16:36:29,822 - INFO - System threads: 3
+2026-08-01 16:36:29,823 - INFO -   MainThread (daemon: False)
+2026-08-01 16:36:29,823 - INFO -   Thread-1 (_process) (daemon: True)
+2026-08-01 16:36:29,823 - INFO -   Thread-2 (daemon: True)
+2026-08-01 16:36:29,868 - INFO - [Diagnostics] Found 1 Timer objects in memory
+2026-08-01 16:36:29,868 - INFO - Memory usage: 157.9 MB
+2026-08-01 16:36:29,868 - INFO - [Diagnostics] ===== END DIAGNOSTIC REPORT =====
+2026-08-01 16:36:29,937 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 16:36:29,937 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:36:29,955 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-08-01 16:36:29,955 - INFO - [Diagnostics] Pre-stop: 3 threads active
+2026-08-01 16:36:29,955 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-08-01 16:36:29,955 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 16:36:29,955 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 16:36:29,955 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 16:36:29,955 - DEBUG - [EventQueue] Processing paused
+2026-08-01 16:36:29,955 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 16:36:29,955 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 16:36:29,955 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 16:36:29,955 - INFO - [Auto Buff] Force stop completed
+2026-08-01 16:36:29,955 - INFO - [AutoBuff] Force stop completed
+2026-08-01 16:36:29,955 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 16:36:29,956 - INFO - [AutoSkill] Force stop completed
+2026-08-01 16:36:29,956 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 16:36:29,956 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 16:36:29,956 - INFO - [Auto Potion] Force stop completed
+2026-08-01 16:36:29,956 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 16:36:29,956 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 16:36:29,956 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 16:36:29,956 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 16:36:29,956 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 16:36:29,956 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 16:36:29,956 - INFO - [AutoAttack] Force stop completed
+2026-08-01 16:36:31,968 - INFO - [Diagnostics] Post-stop: 3 threads active
+2026-08-01 16:36:31,968 - WARNING - [Diagnostics] WARNING: 2 threads still active after stop:
+2026-08-01 16:36:31,968 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 16:36:31,968 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 16:36:31,968 - INFO - [ThreadMonitor] Status Report:
+2026-08-01 16:36:31,968 - INFO -   Active threads: 0
+2026-08-01 16:36:31,968 - INFO -   Active timers: 0
+2026-08-01 16:36:31,968 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-08-01 16:36:31,968 - INFO - Total active threads: 3
+2026-08-01 16:36:31,968 - INFO - Feature-related threads: 0
+2026-08-01 16:36:31,968 - INFO - System threads: 3
+2026-08-01 16:36:31,968 - INFO -   MainThread (daemon: False)
+2026-08-01 16:36:31,968 - INFO -   Thread-1 (_process) (daemon: True)
+2026-08-01 16:36:31,968 - INFO -   Thread-2 (daemon: True)
+2026-08-01 16:36:31,987 - INFO - [Diagnostics] Found 0 Timer objects in memory
+2026-08-01 16:36:31,987 - INFO - Memory usage: 157.9 MB
+2026-08-01 16:36:31,988 - INFO - [Diagnostics] ===== END DIAGNOSTIC REPORT =====
+2026-08-01 16:36:40,301 - INFO - [AutoCameraRotate] Feature stopped. Cancelling 0 timers...
+2026-08-01 16:36:40,301 - DEBUG - [AutoCameraRotate] All timers cleared
+2026-08-01 16:36:57,555 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:37:02,652 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:37:03,089 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:37:25,893 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 16:37:25,893 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:38:30,773 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:40:13,085 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:40:22,838 - INFO - [AutoCameraRotate] Feature started.
+2026-08-01 16:40:22,981 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 16:40:22,982 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 16:40:22,982 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 1
+2026-08-01 16:40:23,307 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:23,308 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-01 16:40:23,308 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:23,308 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:24,311 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:24,588 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:24,588 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-01 16:40:24,588 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:24,588 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:25,592 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:25,688 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 16:40:25,924 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:25,925 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 1
+2026-08-01 16:40:25,925 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 1
+2026-08-01 16:40:26,152 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 16:40:26,153 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-01 16:40:26,153 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:26,153 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:26,934 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:27,194 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:27,194 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-01 16:40:27,194 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:27,194 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:28,203 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:28,508 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:28,509 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-01 16:40:28,509 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:28,509 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:28,858 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 16:40:29,110 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 16:40:29,110 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-01 16:40:29,110 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:29,110 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:29,512 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:29,839 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:29,840 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-01 16:40:29,840 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:29,840 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:30,845 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:31,158 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:31,158 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-01 16:40:31,158 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:31,159 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:31,826 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 16:40:31,991 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 16:40:31,992 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-01 16:40:31,992 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:31,992 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:32,171 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:32,415 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:32,415 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-01 16:40:32,415 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:32,415 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:33,418 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:33,673 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:33,674 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-01 16:40:33,674 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:33,674 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:34,686 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:34,701 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 16:40:34,956 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:34,957 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 1
+2026-08-01 16:40:34,957 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 1
+2026-08-01 16:40:35,101 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 16:40:35,102 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-01 16:40:35,102 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:35,102 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:35,969 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:36,210 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:36,211 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-01 16:40:36,211 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:36,211 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:37,211 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:37,561 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:37,562 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-01 16:40:37,562 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:37,562 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:37,801 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 16:40:38,014 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 16:40:38,014 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-01 16:40:38,014 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:38,014 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:38,567 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:38,823 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:38,824 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-01 16:40:38,824 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:38,824 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:39,827 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-01 16:40:40,137 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-01 16:40:40,138 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-01 16:40:40,138 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:40,138 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:40,715 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 16:40:40,841 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-08-01 16:40:40,841 - INFO - [Diagnostics] Pre-stop: 4 threads active
+2026-08-01 16:40:40,841 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-08-01 16:40:40,841 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 16:40:40,841 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 16:40:40,841 - INFO -   Thread: Thread-23 (daemon: True, alive: True)
+2026-08-01 16:40:40,841 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-01 16:40:40,841 - DEBUG - [EventQueue] Processing paused
+2026-08-01 16:40:40,841 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-01 16:40:40,841 - INFO - [AutoBuff] Force stop initiated...
+2026-08-01 16:40:40,841 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-01 16:40:40,841 - INFO - [Auto Buff] Force stop completed
+2026-08-01 16:40:40,841 - INFO - [AutoBuff] Force stop completed
+2026-08-01 16:40:40,841 - INFO - [AutoSkill] Force stop initiated...
+2026-08-01 16:40:40,842 - INFO - [AutoSkill] Force stop completed
+2026-08-01 16:40:40,842 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-01 16:40:40,842 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-01 16:40:40,842 - INFO - [Auto Potion] Force stop completed
+2026-08-01 16:40:40,842 - INFO - [AutoPotion] Force stop completed.
+2026-08-01 16:40:40,842 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-01 16:40:40,842 - INFO - [Auto Camera Rotate] Cancelled 1 active timers
+2026-08-01 16:40:40,842 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-01 16:40:40,842 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-01 16:40:40,842 - INFO - [TemplateMatcher] Force stop completed
+2026-08-01 16:40:40,842 - INFO - [AutoAttack] Force stop initiated...
+2026-08-01 16:40:40,842 - INFO - [AutoAttack] Force stop completed
+2026-08-01 16:40:40,883 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 16:40:40,884 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 16:40:40,884 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:40,884 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:42,860 - INFO - [Diagnostics] Post-stop: 4 threads active
+2026-08-01 16:40:42,860 - WARNING - [Diagnostics] WARNING: 3 threads still active after stop:
+2026-08-01 16:40:42,860 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-01 16:40:42,860 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-08-01 16:40:42,860 - WARNING -   Persistent thread: Thread-24 (daemon: True, alive: True)
+2026-08-01 16:40:42,860 - INFO - [ThreadMonitor] Status Report:
+2026-08-01 16:40:42,860 - INFO -   Active threads: 0
+2026-08-01 16:40:42,860 - INFO -   Active timers: 0
+2026-08-01 16:40:42,860 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-08-01 16:40:42,860 - INFO - Total active threads: 4
+2026-08-01 16:40:42,860 - INFO - Feature-related threads: 0
+2026-08-01 16:40:42,860 - INFO - System threads: 4
+2026-08-01 16:40:42,860 - INFO -   MainThread (daemon: False)
+2026-08-01 16:40:42,860 - INFO -   Thread-1 (_process) (daemon: True)
+2026-08-01 16:40:42,860 - INFO -   Thread-2 (daemon: True)
+2026-08-01 16:40:42,860 - INFO -   Thread-24 (daemon: True)
+2026-08-01 16:40:42,876 - WARNING - [Diagnostics] WARNING: Active timer found: <Timer(Thread-24, started daemon 36704)>
+2026-08-01 16:40:42,877 - INFO - [Diagnostics] Found 2 Timer objects in memory
+2026-08-01 16:40:42,877 - INFO - Memory usage: 163.8 MB
+2026-08-01 16:40:42,877 - INFO - [Diagnostics] ===== END DIAGNOSTIC REPORT =====
+2026-08-01 16:40:42,952 - DEBUG - [EventQueue] Processing resumed
+2026-08-01 16:40:42,952 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9898580)
+2026-08-01 16:40:43,591 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 16:40:43,821 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 16:40:43,821 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 16:40:43,822 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:43,822 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:46,521 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-01 16:40:46,736 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-01 16:40:46,737 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-01 16:40:46,737 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-01 16:40:46,737 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-01 16:40:48,841 - INFO - [AutoCameraRotate] Feature stopped. Cancelling 1 timers...
+2026-08-01 16:40:48,841 - DEBUG - [AutoCameraRotate] Timer cancelled successfully
+2026-08-01 16:40:48,841 - DEBUG - [AutoCameraRotate] All timers cleared
+2026-08-01 16:40:58,288 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 16:40:58,288 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 16:40:58,289 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 16:40:58,843 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 16:40:58,843 - INFO - [EventQueue] Event queue stopped
+2026-08-01 18:15:26,619 - INFO - Application started.
+2026-08-01 18:15:26,657 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 18:15:26,657 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 18:15:26,657 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 18:15:26,661 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 18:15:26,661 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 18:15:26,662 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 18:15:26,663 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-08-01 18:15:26,669 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 18:15:28,511 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 18:15:28,512 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 18:15:28,512 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 18:15:28,664 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 18:15:28,664 - INFO - [EventQueue] Event queue stopped
+2026-08-01 18:15:34,236 - INFO - Application started.
+2026-08-01 18:15:34,441 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 18:15:34,442 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 18:15:34,442 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 18:15:34,446 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 18:15:34,446 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 18:15:34,447 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 18:15:34,448 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-08-01 18:15:34,454 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 18:16:03,711 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 18:16:03,712 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 18:16:03,712 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 18:16:04,435 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 18:16:04,435 - INFO - [EventQueue] Event queue stopped
+2026-08-01 18:22:27,001 - INFO - Application started.
+2026-08-01 18:22:27,123 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-01 18:22:27,124 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-01 18:22:27,124 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-01 18:22:27,128 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 18:22:27,128 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-01 18:22:27,129 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-01 18:22:27,130 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-08-01 18:22:27,136 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-01 18:23:11,889 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-01 18:23:11,889 - INFO - [EventQueue] Stopping event queue...
+2026-08-01 18:23:11,890 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-01 18:23:12,413 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-01 18:23:12,413 - INFO - [EventQueue] Event queue stopped
+2026-08-02 01:11:28,684 - INFO - Application started.
+2026-08-02 01:11:28,821 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-02 01:11:28,821 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-02 01:11:28,821 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-02 01:11:28,826 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-02 01:11:28,826 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-02 01:11:28,826 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-02 01:11:28,828 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 9244294)
+2026-08-02 01:11:28,834 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-02 01:11:35,967 - INFO - [AutoBuff] Feature stopped
+2026-08-02 01:11:37,201 - ERROR - [ProfileManagerWidget] Error updating profile list: 'ProfileManagerWidget' object has no attribute 'profile_combo'
+2026-08-02 01:12:03,890 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-02 01:12:03,890 - INFO - [EventQueue] Stopping event queue...
+2026-08-02 01:12:03,890 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-02 01:12:03,950 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-02 01:12:03,950 - INFO - [EventQueue] Event queue stopped
+2026-08-02 18:03:33,286 - INFO - Application started.
+2026-08-02 18:03:33,411 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-02 18:03:33,411 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-02 18:03:33,411 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-02 18:03:33,417 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-02 18:03:33,417 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-02 18:03:33,430 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-02 18:03:33,436 - DEBUG - [AutoSkill] Window target set: None (HWND: None)
+2026-08-02 18:03:33,472 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-02 18:03:51,606 - DEBUG - [AutoAttack] Settings widget destroyed, cleaning up references
+2026-08-02 18:03:53,032 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-02 18:03:53,032 - INFO - [EventQueue] Stopping event queue...
+2026-08-02 18:03:53,033 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-02 18:03:53,554 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-02 18:03:53,554 - INFO - [EventQueue] Event queue stopped
+2026-08-02 19:02:49,607 - INFO - Application started.
+2026-08-02 19:02:49,737 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-02 19:02:49,737 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-02 19:02:49,737 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-02 19:02:49,742 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-02 19:02:49,743 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-02 19:02:49,754 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-02 19:02:49,773 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 264152)
+2026-08-02 19:02:49,812 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-02 19:04:48,824 - ERROR - [ProfileManagerWidget] Error updating profile list: 'ProfileManagerWidget' object has no attribute 'profile_combo'
+2026-08-02 19:05:20,652 - DEBUG - [EventQueue] Processing resumed
+2026-08-02 19:05:20,652 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 264152)
+2026-08-02 19:05:36,113 - INFO - [AutoCameraRotate] Feature stopped. Cancelling 0 timers...
+2026-08-02 19:05:36,113 - DEBUG - [AutoCameraRotate] All timers cleared
+2026-08-02 19:05:36,113 - INFO - [AutoCameraRotate] Feature started.
+2026-08-02 19:05:36,123 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:36,305 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-02 19:05:36,306 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 1
+2026-08-02 19:05:36,306 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:36,307 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 1
+2026-08-02 19:05:36,307 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:36,613 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:36,613 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:36,614 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:36,614 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:36,614 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:37,618 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:37,625 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:37,972 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:37,973 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:37,973 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:37,973 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:37,973 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:38,977 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:38,978 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:39,008 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-02 19:05:39,286 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:39,287 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 1
+2026-08-02 19:05:39,287 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:39,287 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 1
+2026-08-02 19:05:39,287 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:39,471 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-02 19:05:39,472 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-02 19:05:39,473 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:39,473 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:39,473 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:40,288 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:40,289 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:40,548 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:40,549 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:40,549 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:40,549 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:40,549 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:41,558 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:41,558 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:41,825 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:41,825 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:41,825 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:41,826 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:41,826 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:42,178 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-02 19:05:42,178 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:42,360 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-02 19:05:42,360 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-02 19:05:42,360 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:42,360 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:42,360 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:42,828 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:42,828 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:43,157 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:43,158 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:43,158 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:43,158 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:43,158 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:44,158 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:44,158 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:44,455 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:44,455 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:44,455 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:44,455 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:44,455 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:45,068 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-02 19:05:45,068 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:45,232 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-02 19:05:45,232 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-02 19:05:45,232 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:45,232 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:45,232 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:45,458 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:45,458 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:45,793 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:45,794 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:45,794 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:45,794 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:45,794 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:46,798 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:46,799 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:47,103 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:47,104 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:47,104 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:47,104 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:47,104 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:47,942 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-02 19:05:47,942 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:48,103 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-02 19:05:48,104 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-02 19:05:48,104 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:48,104 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:48,104 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:48,105 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:48,106 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:48,447 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:48,448 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:48,449 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:48,450 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:48,450 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:49,448 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:49,448 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:49,767 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:49,768 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:49,769 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:49,769 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:49,769 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:50,769 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:50,769 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:50,808 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-02 19:05:51,101 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:51,102 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 1
+2026-08-02 19:05:51,102 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:51,102 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 1
+2026-08-02 19:05:51,102 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:51,261 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-02 19:05:51,262 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-02 19:05:51,262 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:51,262 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:51,262 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:52,108 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:52,108 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:52,450 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:52,451 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:52,451 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:52,451 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:52,451 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:53,450 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:53,451 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:53,779 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:53,780 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:53,780 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:53,780 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:53,780 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:53,968 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-02 19:05:53,969 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:54,198 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-02 19:05:54,198 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-02 19:05:54,198 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:54,198 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:54,198 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:54,788 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:54,789 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:55,126 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:55,127 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:55,127 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:55,127 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:55,127 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:56,128 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:56,128 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:56,460 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:56,461 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:56,461 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:56,461 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:56,461 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:56,898 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-02 19:05:56,899 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:57,124 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-02 19:05:57,124 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-02 19:05:57,124 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:57,125 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:57,125 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:57,475 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:57,475 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:57,816 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:57,817 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:57,818 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:57,818 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:57,818 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:58,818 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:05:58,818 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:05:59,069 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:05:59,070 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:05:59,070 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:05:59,070 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:05:59,071 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:05:59,836 - DEBUG - [AutoCameraRotate] Requeueing rotation for right
+2026-08-02 19:05:59,836 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:06:00,020 - INFO - [AutoCameraRotate] Holding key right for 0.1s.
+2026-08-02 19:06:00,021 - DEBUG - [AutoCameraRotate] Timer started for right (2.7s). Active timers: 2
+2026-08-02 19:06:00,021 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:06:00,021 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:06:00,021 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:06:00,078 - DEBUG - [AutoCameraRotate] Requeueing rotation for Left
+2026-08-02 19:06:00,078 - INFO - [TemplateMatcher] Paused.
+2026-08-02 19:06:00,382 - INFO - [AutoCameraRotate] Holding key Left for 0.2s.
+2026-08-02 19:06:00,383 - DEBUG - [AutoCameraRotate] Timer started for Left (1.0s). Active timers: 2
+2026-08-02 19:06:00,383 - INFO - [TemplateMatcher] Resumed.
+2026-08-02 19:06:00,383 - DEBUG - [EventQueue] Sleeping for 0.0s between events. Queue size after event: 0
+2026-08-02 19:06:00,383 - DEBUG - [EventQueue] Queue is now empty.
+2026-08-02 19:06:00,972 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-08-02 19:06:00,972 - INFO - [Diagnostics] Pre-stop: 5 threads active
+2026-08-02 19:06:00,972 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-08-02 19:06:00,972 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-02 19:06:00,972 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-08-02 19:06:00,972 - INFO -   Thread: Thread-29 (daemon: True, alive: True)
+2026-08-02 19:06:00,972 - INFO -   Thread: Thread-30 (daemon: True, alive: True)
+2026-08-02 19:06:00,972 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-02 19:06:00,972 - DEBUG - [EventQueue] Processing paused
+2026-08-02 19:06:00,972 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-02 19:06:00,972 - INFO - [AutoBuff] Force stop initiated...
+2026-08-02 19:06:00,972 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-02 19:06:00,972 - INFO - [Auto Buff] Force stop completed
+2026-08-02 19:06:00,972 - INFO - [AutoBuff] Force stop completed
+2026-08-02 19:06:00,972 - INFO - [AutoSkill] Force stop initiated...
+2026-08-02 19:06:00,972 - INFO - [AutoSkill] Force stop completed
+2026-08-02 19:06:00,972 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-02 19:06:00,972 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-02 19:06:00,973 - INFO - [Auto Potion] Force stop completed
+2026-08-02 19:06:00,973 - INFO - [AutoPotion] Force stop completed.
+2026-08-02 19:06:00,973 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-02 19:06:00,973 - INFO - [Auto Camera Rotate] Cancelled 2 active timers
+2026-08-02 19:06:00,973 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-02 19:06:00,973 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-02 19:06:00,973 - INFO - [TemplateMatcher] Force stop completed
+2026-08-02 19:06:00,973 - INFO - [AutoAttack] Force stop initiated...
+2026-08-02 19:06:00,973 - INFO - [AutoAttack] Force stop completed
+2026-08-02 19:06:02,993 - INFO - [Diagnostics] Post-stop: 3 threads active
+2026-08-02 19:06:02,994 - WARNING - [Diagnostics] WARNING: 2 threads still active after stop:
+2026-08-02 19:06:02,994 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-02 19:06:02,994 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-08-02 19:06:02,994 - INFO - [ThreadMonitor] Status Report:
+2026-08-02 19:06:02,994 - INFO -   Active threads: 0
+2026-08-02 19:06:02,994 - INFO -   Active timers: 0
+2026-08-02 19:06:02,994 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-08-02 19:06:02,994 - INFO - Total active threads: 3
+2026-08-02 19:06:02,994 - INFO - Feature-related threads: 0
+2026-08-02 19:06:02,994 - INFO - System threads: 3
+2026-08-02 19:06:02,994 - INFO -   MainThread (daemon: False)
+2026-08-02 19:06:02,994 - INFO -   Thread-1 (_process) (daemon: True)
+2026-08-02 19:06:02,994 - INFO -   Thread-2 (daemon: True)
+2026-08-02 19:06:03,084 - INFO - [Diagnostics] Found 2 Timer objects in memory
+2026-08-02 19:06:03,085 - INFO - Memory usage: 161.5 MB
+2026-08-02 19:06:03,085 - INFO - [Diagnostics] ===== END DIAGNOSTIC REPORT =====
+2026-08-02 19:06:06,061 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-02 19:06:06,062 - INFO - [EventQueue] Stopping event queue...
+2026-08-02 19:06:06,062 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-02 19:06:06,447 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-02 19:06:06,447 - INFO - [EventQueue] Event queue stopped
+2026-08-02 19:07:20,107 - INFO - Application started.
+2026-08-02 19:07:20,189 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-02 19:07:20,189 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-02 19:07:20,189 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-02 19:07:20,194 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-02 19:07:20,194 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-02 19:07:20,195 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-02 19:07:20,198 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 396074)
+2026-08-02 19:07:20,211 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-02 19:07:25,456 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-02 19:07:25,456 - INFO - [EventQueue] Stopping event queue...
+2026-08-02 19:07:25,456 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-02 19:07:26,173 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-02 19:07:26,173 - INFO - [EventQueue] Event queue stopped
+2026-08-02 19:07:31,835 - INFO - Application started.
+2026-08-02 19:07:31,895 - INFO - [ShortcutManager] Global shortcuts started
+2026-08-02 19:07:31,896 - INFO - [ShortcutManager] Toggle app: Ctrl+F9
+2026-08-02 19:07:31,896 - INFO - [ShortcutManager] Emergency stop: Ctrl+F10
+2026-08-02 19:07:31,900 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-02 19:07:31,900 - DEBUG - [TemplateMatcher] Loaded enhanced settings: dynamic_hold=False, camera_pause=False
+2026-08-02 19:07:31,901 - INFO - [TemplateMatcher] ✓ Camera rotate feature connected for pause/resume functionality
+2026-08-02 19:07:31,902 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 396074)
+2026-08-02 19:07:31,909 - INFO - [ShortcutManager] Updated auto attack shortcut: ctrl+f11
+2026-08-02 19:07:34,058 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 396074)
+2026-08-02 19:07:45,040 - DEBUG - [EventQueue] Processing resumed
+2026-08-02 19:07:45,040 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 396074)
+2026-08-02 19:07:52,964 - INFO - [MainWindow] Starting enhanced stop sequence...
+2026-08-02 19:07:52,964 - INFO - [Diagnostics] Pre-stop: 3 threads active
+2026-08-02 19:07:52,964 - INFO -   Thread: MainThread (daemon: False, alive: True)
+2026-08-02 19:07:52,964 - INFO -   Thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-02 19:07:52,964 - INFO -   Thread: Thread-2 (daemon: True, alive: True)
+2026-08-02 19:07:52,964 - INFO - [EventQueue] Emergency stop initiated...
+2026-08-02 19:07:52,964 - DEBUG - [EventQueue] Processing paused
+2026-08-02 19:07:52,964 - INFO - [EventQueue] Emergency stop completed - cleared 0 events
+2026-08-02 19:07:52,964 - INFO - [AutoBuff] Force stop initiated...
+2026-08-02 19:07:52,964 - INFO - [Auto Buff] Force stopping all threads and timers...
+2026-08-02 19:07:52,964 - INFO - [Auto Buff] Force stop completed
+2026-08-02 19:07:52,964 - INFO - [AutoBuff] Force stop completed
+2026-08-02 19:07:52,964 - INFO - [AutoSkill] Force stop initiated...
+2026-08-02 19:07:52,964 - INFO - [AutoSkill] Force stop completed
+2026-08-02 19:07:52,964 - INFO - [AutoPotion] Force stop initiated. Stopping all threads...
+2026-08-02 19:07:52,964 - INFO - [Auto Potion] Force stopping all threads and timers...
+2026-08-02 19:07:52,964 - INFO - [Auto Potion] Force stop completed
+2026-08-02 19:07:52,964 - INFO - [AutoPotion] Force stop completed.
+2026-08-02 19:07:52,964 - INFO - [Auto Camera Rotate] Force stopping all threads and timers...
+2026-08-02 19:07:52,964 - INFO - [Auto Camera Rotate] Force stop completed
+2026-08-02 19:07:52,964 - INFO - [TemplateMatcher] Force stop initiated...
+2026-08-02 19:07:52,964 - INFO - [TemplateMatcher] Force stop completed
+2026-08-02 19:07:52,964 - INFO - [AutoAttack] Force stop initiated...
+2026-08-02 19:07:52,964 - INFO - [AutoAttack] Force stop completed
+2026-08-02 19:07:54,973 - INFO - [Diagnostics] Post-stop: 3 threads active
+2026-08-02 19:07:54,973 - WARNING - [Diagnostics] WARNING: 2 threads still active after stop:
+2026-08-02 19:07:54,973 - WARNING -   Persistent thread: Thread-1 (_process) (daemon: True, alive: True)
+2026-08-02 19:07:54,973 - WARNING -   Persistent thread: Thread-2 (daemon: True, alive: True)
+2026-08-02 19:07:54,973 - INFO - [ThreadMonitor] Status Report:
+2026-08-02 19:07:54,973 - INFO -   Active threads: 0
+2026-08-02 19:07:54,973 - INFO -   Active timers: 0
+2026-08-02 19:07:54,973 - INFO - [Diagnostics] ===== FULL DIAGNOSTIC REPORT =====
+2026-08-02 19:07:54,973 - INFO - Total active threads: 3
+2026-08-02 19:07:54,973 - INFO - Feature-related threads: 0
+2026-08-02 19:07:54,973 - INFO - System threads: 3
+2026-08-02 19:07:54,973 - INFO -   MainThread (daemon: False)
+2026-08-02 19:07:54,973 - INFO -   Thread-1 (_process) (daemon: True)
+2026-08-02 19:07:54,973 - INFO -   Thread-2 (daemon: True)
+2026-08-02 19:07:55,018 - INFO - [Diagnostics] Found 0 Timer objects in memory
+2026-08-02 19:07:55,018 - INFO - Memory usage: 162.2 MB
+2026-08-02 19:07:55,018 - INFO - [Diagnostics] ===== END DIAGNOSTIC REPORT =====
+2026-08-02 19:08:08,544 - INFO - [AutoCameraRotate] Feature stopped. Cancelling 0 timers...
+2026-08-02 19:08:08,545 - DEBUG - [AutoCameraRotate] All timers cleared
+2026-08-02 19:08:22,264 - INFO - [AutoCameraRotate] Feature stopped. Cancelling 0 timers...
+2026-08-02 19:08:22,264 - DEBUG - [AutoCameraRotate] All timers cleared
+2026-08-02 19:08:32,257 - INFO - [AutoCameraRotate] Feature stopped. Cancelling 0 timers...
+2026-08-02 19:08:32,258 - DEBUG - [AutoCameraRotate] All timers cleared
+2026-08-02 19:08:39,868 - DEBUG - [EventQueue] Processing resumed
+2026-08-02 19:08:39,868 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 396074)
+2026-08-02 19:09:39,152 - DEBUG - [AutoSkill] Window target set: Priston Tale (HWND: 396074)
+2026-08-02 19:15:51,836 - INFO - [ShortcutManager] Global shortcuts stopped
+2026-08-02 19:15:51,837 - INFO - [EventQueue] Stopping event queue...
+2026-08-02 19:15:51,837 - INFO - [EventQueue] Waiting for worker thread to stop...
+2026-08-02 19:15:51,943 - INFO - [EventQueue] Worker thread stopped successfully
+2026-08-02 19:15:51,944 - INFO - [EventQueue] Event queue stopped

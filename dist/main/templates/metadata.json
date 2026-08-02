@@ -1,0 +1,232 @@
+{
+  "21e0ff8e-304f-4797-8bea-6339593137f6": {
+    "id": "21e0ff8e-304f-4797-8bea-6339593137f6",
+    "name": "Ouro",
+    "file_path": "Ouro_21e0ff8e.png",
+    "width": 27,
+    "height": 13,
+    "created_at": "2026-02-16T03:33:49.541723",
+    "priority": 99,
+    "active": true
+  },
+  "80b09ae0-e2e5-44ae-aa81-64a525b72a8b": {
+    "id": "80b09ae0-e2e5-44ae-aa81-64a525b72a8b",
+    "name": "HP1",
+    "file_path": "HP1_80b09ae0.png",
+    "width": 109,
+    "height": 14,
+    "created_at": "2026-04-01T23:27:06.197356",
+    "priority": 1,
+    "active": false
+  },
+  "dcd74a04-73aa-40f4-acd6-f02c9195d75f": {
+    "id": "dcd74a04-73aa-40f4-acd6-f02c9195d75f",
+    "name": "MANA1",
+    "file_path": "MANA1_dcd74a04.png",
+    "width": 122,
+    "height": 14,
+    "created_at": "2026-04-01T23:27:16.973725",
+    "priority": 1,
+    "active": false
+  },
+  "67f7b819-e2c0-4694-b439-555e1e8ccea1": {
+    "id": "67f7b819-e2c0-4694-b439-555e1e8ccea1",
+    "name": "MANA2",
+    "file_path": "MANA2_67f7b819.png",
+    "width": 125,
+    "height": 12,
+    "created_at": "2026-04-01T23:27:28.933967",
+    "priority": 1,
+    "active": false
+  },
+  "8e212a81-5a41-4dbf-bf8e-d6fa7daab504": {
+    "id": "8e212a81-5a41-4dbf-bf8e-d6fa7daab504",
+    "name": "RESS",
+    "file_path": "RESS_8e212a81.png",
+    "width": 118,
+    "height": 12,
+    "created_at": "2026-04-01T23:27:36.157965",
+    "priority": 1,
+    "active": false
+  },
+  "8791dfd1-6f06-4f93-9651-7a6168ac63fb": {
+    "id": "8791dfd1-6f06-4f93-9651-7a6168ac63fb",
+    "name": "RESS2",
+    "file_path": "RESS2_8791dfd1.png",
+    "width": 118,
+    "height": 12,
+    "created_at": "2026-04-01T23:27:46.494745",
+    "priority": 1,
+    "active": false
+  },
+  "fa3efa44-70fc-4d3a-aeab-fec10d9b6d25": {
+    "id": "fa3efa44-70fc-4d3a-aeab-fec10d9b6d25",
+    "name": "RESS4",
+    "file_path": "RESS4_fa3efa44.png",
+    "width": 117,
+    "height": 12,
+    "created_at": "2026-04-01T23:27:58.422841",
+    "priority": 1,
+    "active": false
+  },
+  "578d5013-da3c-4234-a59b-0af4a99e84cd": {
+    "id": "578d5013-da3c-4234-a59b-0af4a99e84cd",
+    "name": "mANAAA",
+    "file_path": "mANAAA_578d5013.png",
+    "width": 130,
+    "height": 15,
+    "created_at": "2026-04-01T23:30:08.345632",
+    "priority": 1,
+    "active": false
+  },
+  "e5e2af7d-7690-4410-aa4b-847176d0333a": {
+    "id": "e5e2af7d-7690-4410-aa4b-847176d0333a",
+    "name": "tartaruga",
+    "file_path": "tartaruga_e5e2af7d.png",
+    "width": 157,
+    "height": 15,
+    "created_at": "2026-05-07T20:05:15.802394",
+    "priority": 95,
+    "active": false
+  },
+  "a0e0790a-1c35-4dd7-ab0a-142e47fd9cb2": {
+    "id": "a0e0790a-1c35-4dd7-ab0a-142e47fd9cb2",
+    "name": "Vermelha",
+    "file_path": "Vermelha_a0e0790a.png",
+    "width": 52,
+    "height": 13,
+    "created_at": "2026-05-07T22:29:34.747489",
+    "priority": 96,
+    "active": false
+  },
+  "2c4b2f24-7ee9-48eb-90be-0155c5c0e5cd": {
+    "id": "2c4b2f24-7ee9-48eb-90be-0155c5c0e5cd",
+    "name": "Bolsa",
+    "file_path": "Bolsa_2c4b2f24.png",
+    "width": 126,
+    "height": 14,
+    "created_at": "2026-05-08T00:40:59.803251",
+    "priority": 99,
+    "active": false
+  },
+  "52be2c0f-ba57-4292-a88a-a6cd78f579d5": {
+    "id": "52be2c0f-ba57-4292-a88a-a6cd78f579d5",
+    "name": "Fragmento",
+    "file_path": "Fragmento_52be2c0f.png",
+    "width": 59,
+    "height": 15,
+    "created_at": "2026-05-08T01:01:27.999263",
+    "priority": 99,
+    "active": false
+  },
+  "3700df8f-4d7b-42f2-a60d-599d1aae07b1": {
+    "id": "3700df8f-4d7b-42f2-a60d-599d1aae07b1",
+    "name": "Enigma",
+    "file_path": "Enigma_3700df8f.png",
+    "width": 48,
+    "height": 13,
+    "created_at": "2026-05-12T22:01:08.202350",
+    "priority": 99,
+    "active": false
+  },
+  "46e47a1e-29f9-48e6-9201-8e01cfc5b5d5": {
+    "id": "46e47a1e-29f9-48e6-9201-8e01cfc5b5d5",
+    "name": "Inferna",
+    "file_path": "Inferna_46e47a1e.png",
+    "width": 50,
+    "height": 13,
+    "created_at": "2026-05-12T22:16:00.243582",
+    "priority": 99,
+    "active": false
+  },
+  "05a3c493-76f8-4796-872f-6e6fd795e93e": {
+    "id": "05a3c493-76f8-4796-872f-6e6fd795e93e",
+    "name": "Mirage",
+    "file_path": "Mirage_05a3c493.png",
+    "width": 45,
+    "height": 15,
+    "created_at": "2026-05-12T22:17:06.609807",
+    "priority": 99,
+    "active": false
+  },
+  "c2ef53a8-9b22-4a3f-b7de-6a05a7e09d07": {
+    "id": "c2ef53a8-9b22-4a3f-b7de-6a05a7e09d07",
+    "name": "Sol",
+    "file_path": "Sol_c2ef53a8.png",
+    "width": 34,
+    "height": 16,
+    "created_at": "2026-05-14T09:16:24.511830",
+    "priority": 96,
+    "active": false
+  },
+  "0d8ace97-b761-4733-9e67-4b34f28ad004": {
+    "id": "0d8ace97-b761-4733-9e67-4b34f28ad004",
+    "name": "Jera",
+    "file_path": "Jera_0d8ace97.png",
+    "width": 38,
+    "height": 16,
+    "created_at": "2026-05-14T09:17:56.095868",
+    "priority": 96,
+    "active": false
+  },
+  "ffa0c775-c670-48a8-8eed-bcc5075e37bf": {
+    "id": "ffa0c775-c670-48a8-8eed-bcc5075e37bf",
+    "name": "Teiwaz",
+    "file_path": "Teiwaz_ffa0c775.png",
+    "width": 52,
+    "height": 15,
+    "created_at": "2026-05-14T10:16:29.862408",
+    "priority": 96,
+    "active": false
+  },
+  "4548e7c5-6739-4e93-8b1e-4bc4e558b440": {
+    "id": "4548e7c5-6739-4e93-8b1e-4bc4e558b440",
+    "name": "Ouro2",
+    "file_path": "Ouro2_4548e7c5.png",
+    "width": 30,
+    "height": 15,
+    "created_at": "2026-05-14T14:14:50.088379",
+    "priority": 99,
+    "active": true
+  },
+  "5e7b0093-daf5-4d40-8bf0-ff18f7883026": {
+    "id": "5e7b0093-daf5-4d40-8bf0-ff18f7883026",
+    "name": "RunaRed",
+    "file_path": "RunaRed_5e7b0093.png",
+    "width": 133,
+    "height": 15,
+    "created_at": "2026-05-15T05:57:19.475985",
+    "priority": 99,
+    "active": false
+  },
+  "468196b8-ec52-4a8b-b81d-63802672bfab": {
+    "id": "468196b8-ec52-4a8b-b81d-63802672bfab",
+    "name": "folha",
+    "file_path": "folha_468196b8.png",
+    "width": 72,
+    "height": 14,
+    "created_at": "2026-06-06T10:40:44.248190",
+    "priority": 99,
+    "active": true
+  },
+  "2658ff7c-4cfc-484f-8f46-587e5ca20b58": {
+    "id": "2658ff7c-4cfc-484f-8f46-587e5ca20b58",
+    "name": "Palha",
+    "file_path": "Palha_2658ff7c.png",
+    "width": 35,
+    "height": 13,
+    "created_at": "2026-06-06T10:40:59.145745",
+    "priority": 99,
+    "active": true
+  },
+  "5c9fc334-cd9d-4a62-b18a-954a50af5002": {
+    "id": "5c9fc334-cd9d-4a62-b18a-954a50af5002",
+    "name": "Lenha",
+    "file_path": "Lenha_5c9fc334.png",
+    "width": 39,
+    "height": 13,
+    "created_at": "2026-06-06T10:42:20.350246",
+    "priority": 99,
+    "active": true
+  }
+}
