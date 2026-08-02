@@ -382,8 +382,8 @@ class MainWindow(QMainWindow):
                 if hasattr(feature, 'update_settings_preview') and callable(feature.update_settings_preview):
                     feature.update_settings_preview()
 
-                if feature.enabled:
-                    feature.start(app_running=True)
+                feature.enabled = True
+                feature.start(app_running=True)
 
             for card in getattr(self, 'feature_cards', []):
                 card.sync_with_feature_state()
